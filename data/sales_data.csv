@@ -1,0 +1,1001 @@
+Date,Branch,Manager,Customer,Product,Category,Quantity,Unit Price,Revenue,Payment Method
+2026-03-11,Almaty 3,Dana,Customer 190,Saw,Tools,42,15000,630000,Bank Transfer
+2026-10-14,Almaty 2,Alina,Customer 66,Hammer,Tools,10,6200,62000,Cash
+2026-12-20,Almaty 4,Dana,Customer 68,Cement M400,Building Materials,50,3200,160000,Cash
+2026-09-11,Almaty 3,Nursultan,Customer 219,Pipe PVC,Plumbing,11,2100,23100,Cash
+2026-08-05,Almaty 1,Nursultan,Customer 170,Pipe PVC,Plumbing,2,2100,4200,Card
+2026-03-21,Almaty 2,Aidos,Customer 114,LED Lamp,Electrical,55,1600,88000,Bank Transfer
+2026-02-05,Almaty 4,Aidos,Customer 83,Roof Sheet,Roof,17,13500,229500,Bank Transfer
+2026-06-29,Almaty 1,Dana,Customer 40,Tile,Finishing,33,4600,151800,Bank Transfer
+2026-10-30,Almaty 3,Alina,Customer 236,LED Lamp,Electrical,23,1600,36800,Bank Transfer
+2026-10-29,Almaty 2,Dias,Customer 58,Pipe PVC,Plumbing,39,2100,81900,Card
+2026-11-09,Almaty 4,Dias,Customer 141,Paint,Finishing,26,5400,140400,Bank Transfer
+2026-06-19,Almaty 1,Askar,Customer 179,Cement M400,Building Materials,31,3200,99200,Cash
+2026-08-19,Almaty 2,Dana,Customer 106,Window,Exterior,21,72000,1512000,Bank Transfer
+2026-04-13,Almaty 2,Nursultan,Customer 51,Saw,Tools,60,15000,900000,Bank Transfer
+2026-09-14,Almaty 4,Alina,Customer 71,Pipe PVC,Plumbing,18,2100,37800,Card
+2026-03-10,Almaty 2,Dana,Customer 41,Insulation,Roof,49,3900,191100,Bank Transfer
+2026-11-05,Almaty 1,Askar,Customer 154,Drill,Tools,28,38000,1064000,Bank Transfer
+2026-06-06,Almaty 4,Aidos,Customer 186,Window,Exterior,1,72000,72000,Card
+2026-08-03,Almaty 2,Askar,Customer 149,Primer,Finishing,22,4100,90200,Bank Transfer
+2026-07-20,Almaty 1,Alina,Customer 53,Insulation,Roof,16,3900,62400,Cash
+2026-07-05,Almaty 3,Askar,Customer 169,Brick,Building Materials,13,180,2340,Cash
+2026-06-05,Almaty 2,Dias,Customer 211,Brick,Building Materials,46,180,8280,Bank Transfer
+2026-01-29,Almaty 1,Dana,Customer 46,Paint,Finishing,8,5400,43200,Cash
+2026-09-30,Almaty 2,Alina,Customer 109,Primer,Finishing,22,4100,90200,Card
+2026-06-20,Almaty 4,Nursultan,Customer 137,Pipe PVC,Plumbing,20,2100,42000,Card
+2026-01-08,Almaty 1,Askar,Customer 196,Tile,Finishing,54,4600,248400,Bank Transfer
+2026-02-28,Almaty 1,Dias,Customer 191,LED Lamp,Electrical,39,1600,62400,Card
+2026-05-15,Almaty 3,Askar,Customer 102,Insulation,Roof,49,3900,191100,Cash
+2026-11-28,Almaty 4,Nursultan,Customer 206,Saw,Tools,7,15000,105000,Bank Transfer
+2026-08-16,Almaty 4,Dias,Customer 130,Roof Sheet,Roof,47,13500,634500,Cash
+2026-10-15,Almaty 1,Dana,Customer 7,Hammer,Tools,31,6200,192200,Bank Transfer
+2026-06-28,Almaty 4,Dana,Customer 26,Tile,Finishing,55,4600,253000,Bank Transfer
+2026-09-17,Almaty 3,Askar,Customer 225,Tile,Finishing,44,4600,202400,Card
+2026-08-23,Almaty 2,Aidos,Customer 159,Window,Exterior,38,72000,2736000,Card
+2026-09-19,Almaty 4,Aidos,Customer 121,Door,Interior,14,48000,672000,Cash
+2026-04-04,Almaty 2,Askar,Customer 121,Brick,Building Materials,26,180,4680,Bank Transfer
+2026-05-03,Almaty 1,Aidos,Customer 40,Mixer,Plumbing,20,12500,250000,Bank Transfer
+2026-03-19,Almaty 3,Nursultan,Customer 56,Paint,Finishing,20,5400,108000,Bank Transfer
+2026-02-27,Almaty 4,Aidos,Customer 179,Brick,Building Materials,35,180,6300,Bank Transfer
+2026-08-23,Almaty 3,Askar,Customer 218,Glue,Finishing,8,2500,20000,Card
+2026-06-28,Almaty 1,Nursultan,Customer 221,Saw,Tools,10,15000,150000,Cash
+2026-03-29,Almaty 2,Alina,Customer 165,Hammer,Tools,26,6200,161200,Cash
+2026-12-14,Almaty 3,Dana,Customer 141,Tile,Finishing,46,4600,211600,Cash
+2026-06-19,Almaty 4,Askar,Customer 127,Window,Exterior,52,72000,3744000,Cash
+2026-06-21,Almaty 2,Aidos,Customer 104,Screws,Hardware,17,900,15300,Bank Transfer
+2026-03-17,Almaty 1,Dana,Customer 63,Saw,Tools,4,15000,60000,Card
+2026-04-21,Almaty 1,Dana,Customer 242,Window,Exterior,3,72000,216000,Cash
+2026-12-24,Almaty 1,Askar,Customer 42,Pipe PVC,Plumbing,42,2100,88200,Cash
+2026-01-04,Almaty 3,Nursultan,Customer 220,Cement M400,Building Materials,8,3200,25600,Card
+2026-06-24,Almaty 3,Nursultan,Customer 138,Gypsum Board,Building Materials,28,2900,81200,Bank Transfer
+2026-03-08,Almaty 4,Aidos,Customer 239,Gypsum Board,Building Materials,16,2900,46400,Card
+2026-01-18,Almaty 3,Dias,Customer 115,Screws,Hardware,11,900,9900,Card
+2026-10-23,Almaty 2,Dias,Customer 21,Hammer,Tools,48,6200,297600,Card
+2026-12-29,Almaty 1,Alina,Customer 121,Cement M400,Building Materials,19,3200,60800,Cash
+2026-10-23,Almaty 1,Nursultan,Customer 4,Laminate,Flooring,22,7200,158400,Cash
+2026-07-12,Almaty 3,Dana,Customer 33,Laminate,Flooring,10,7200,72000,Bank Transfer
+2026-08-01,Almaty 3,Askar,Customer 104,Pipe PVC,Plumbing,25,2100,52500,Card
+2026-09-16,Almaty 1,Dana,Customer 152,Cement M400,Building Materials,30,3200,96000,Bank Transfer
+2026-02-07,Almaty 2,Aidos,Customer 77,Cable,Electrical,6,8500,51000,Bank Transfer
+2026-12-20,Almaty 3,Aidos,Customer 196,Window,Exterior,27,72000,1944000,Bank Transfer
+2026-10-22,Almaty 1,Dana,Customer 28,Roof Sheet,Roof,7,13500,94500,Bank Transfer
+2026-08-31,Almaty 1,Dias,Customer 95,Tile,Finishing,49,4600,225400,Bank Transfer
+2026-08-27,Almaty 1,Alina,Customer 179,Cable,Electrical,18,8500,153000,Cash
+2026-09-05,Almaty 3,Aidos,Customer 143,Saw,Tools,43,15000,645000,Card
+2026-05-26,Almaty 3,Dana,Customer 22,Laminate,Flooring,56,7200,403200,Cash
+2026-08-25,Almaty 1,Askar,Customer 184,Pipe PVC,Plumbing,59,2100,123900,Bank Transfer
+2026-12-21,Almaty 1,Aidos,Customer 43,Tile,Finishing,22,4600,101200,Cash
+2026-08-13,Almaty 2,Nursultan,Customer 15,Gypsum Board,Building Materials,34,2900,98600,Card
+2026-10-02,Almaty 1,Askar,Customer 222,Saw,Tools,35,15000,525000,Bank Transfer
+2026-01-07,Almaty 3,Dias,Customer 79,Window,Exterior,41,72000,2952000,Cash
+2026-02-09,Almaty 1,Dana,Customer 232,Brick,Building Materials,39,180,7020,Cash
+2026-12-03,Almaty 4,Nursultan,Customer 207,Paint,Finishing,10,5400,54000,Card
+2026-07-16,Almaty 4,Nursultan,Customer 173,Screws,Hardware,37,900,33300,Bank Transfer
+2026-06-27,Almaty 4,Dana,Customer 178,Screws,Hardware,13,900,11700,Cash
+2026-07-12,Almaty 3,Dana,Customer 119,Cement M400,Building Materials,32,3200,102400,Bank Transfer
+2026-08-14,Almaty 1,Nursultan,Customer 239,Window,Exterior,42,72000,3024000,Cash
+2026-12-02,Almaty 2,Alina,Customer 60,Tile,Finishing,39,4600,179400,Bank Transfer
+2026-04-05,Almaty 1,Nursultan,Customer 146,Primer,Finishing,27,4100,110700,Cash
+2026-01-25,Almaty 1,Dana,Customer 156,Primer,Finishing,38,4100,155800,Bank Transfer
+2026-08-21,Almaty 2,Dana,Customer 202,Mixer,Plumbing,52,12500,650000,Card
+2026-05-18,Almaty 4,Aidos,Customer 117,Paint,Finishing,53,5400,286200,Bank Transfer
+2026-08-25,Almaty 1,Dana,Customer 219,Paint,Finishing,10,5400,54000,Bank Transfer
+2026-01-04,Almaty 1,Dana,Customer 184,Hammer,Tools,27,6200,167400,Cash
+2026-04-22,Almaty 2,Askar,Customer 115,Mixer,Plumbing,49,12500,612500,Card
+2026-01-21,Almaty 4,Dias,Customer 168,Drill,Tools,59,38000,2242000,Bank Transfer
+2026-11-29,Almaty 3,Aidos,Customer 75,Tile,Finishing,22,4600,101200,Cash
+2026-12-05,Almaty 3,Askar,Customer 106,LED Lamp,Electrical,34,1600,54400,Cash
+2026-07-05,Almaty 1,Dana,Customer 99,Pipe PVC,Plumbing,16,2100,33600,Cash
+2026-09-06,Almaty 1,Alina,Customer 74,Roof Sheet,Roof,6,13500,81000,Bank Transfer
+2026-08-31,Almaty 1,Dias,Customer 28,Saw,Tools,59,15000,885000,Bank Transfer
+2026-10-14,Almaty 2,Dana,Customer 10,Primer,Finishing,50,4100,205000,Cash
+2026-06-21,Almaty 4,Dana,Customer 111,Window,Exterior,16,72000,1152000,Cash
+2026-11-06,Almaty 4,Alina,Customer 190,Cement M400,Building Materials,20,3200,64000,Card
+2026-04-06,Almaty 4,Alina,Customer 193,Hammer,Tools,16,6200,99200,Cash
+2026-12-06,Almaty 3,Alina,Customer 160,Cable,Electrical,22,8500,187000,Bank Transfer
+2026-07-24,Almaty 2,Alina,Customer 44,Screws,Hardware,48,900,43200,Bank Transfer
+2026-07-18,Almaty 1,Nursultan,Customer 188,Mixer,Plumbing,43,12500,537500,Card
+2026-11-28,Almaty 2,Nursultan,Customer 124,Screws,Hardware,12,900,10800,Bank Transfer
+2026-02-20,Almaty 3,Alina,Customer 245,Hammer,Tools,55,6200,341000,Cash
+2026-07-01,Almaty 3,Aidos,Customer 78,Door,Interior,32,48000,1536000,Bank Transfer
+2026-03-21,Almaty 2,Nursultan,Customer 186,Primer,Finishing,49,4100,200900,Cash
+2026-09-07,Almaty 1,Askar,Customer 218,Gypsum Board,Building Materials,24,2900,69600,Bank Transfer
+2026-06-07,Almaty 3,Askar,Customer 112,Roof Sheet,Roof,28,13500,378000,Bank Transfer
+2026-03-24,Almaty 3,Nursultan,Customer 236,Gypsum Board,Building Materials,34,2900,98600,Bank Transfer
+2026-09-15,Almaty 1,Askar,Customer 10,Tile,Finishing,41,4600,188600,Cash
+2026-02-27,Almaty 4,Dias,Customer 78,Saw,Tools,44,15000,660000,Card
+2026-12-18,Almaty 2,Alina,Customer 215,Cement M400,Building Materials,33,3200,105600,Cash
+2026-12-06,Almaty 1,Alina,Customer 229,LED Lamp,Electrical,9,1600,14400,Cash
+2026-11-09,Almaty 2,Askar,Customer 131,Glue,Finishing,5,2500,12500,Cash
+2026-11-06,Almaty 1,Askar,Customer 11,Insulation,Roof,5,3900,19500,Card
+2026-07-03,Almaty 2,Aidos,Customer 8,Laminate,Flooring,22,7200,158400,Cash
+2026-11-11,Almaty 3,Dana,Customer 36,Cement M400,Building Materials,7,3200,22400,Cash
+2026-03-01,Almaty 4,Dias,Customer 247,Mixer,Plumbing,27,12500,337500,Card
+2026-10-24,Almaty 4,Nursultan,Customer 102,Saw,Tools,57,15000,855000,Card
+2026-04-12,Almaty 1,Aidos,Customer 77,Brick,Building Materials,49,180,8820,Bank Transfer
+2026-01-08,Almaty 4,Dana,Customer 142,Tile,Finishing,21,4600,96600,Cash
+2026-02-22,Almaty 4,Dana,Customer 3,Paint,Finishing,24,5400,129600,Card
+2026-05-04,Almaty 4,Dana,Customer 205,Roof Sheet,Roof,60,13500,810000,Bank Transfer
+2026-11-10,Almaty 1,Dana,Customer 9,Mixer,Plumbing,39,12500,487500,Card
+2026-10-08,Almaty 1,Dias,Customer 21,Screws,Hardware,57,900,51300,Bank Transfer
+2026-12-08,Almaty 4,Dias,Customer 130,Roof Sheet,Roof,6,13500,81000,Cash
+2026-05-13,Almaty 2,Dias,Customer 138,Paint,Finishing,28,5400,151200,Card
+2026-11-03,Almaty 3,Askar,Customer 205,Door,Interior,36,48000,1728000,Card
+2026-06-15,Almaty 1,Alina,Customer 129,Saw,Tools,11,15000,165000,Card
+2026-02-09,Almaty 4,Askar,Customer 143,Saw,Tools,24,15000,360000,Card
+2026-03-12,Almaty 2,Askar,Customer 81,Hammer,Tools,27,6200,167400,Bank Transfer
+2026-05-26,Almaty 4,Dias,Customer 7,Cement M400,Building Materials,15,3200,48000,Bank Transfer
+2026-10-19,Almaty 2,Dias,Customer 133,Hammer,Tools,51,6200,316200,Bank Transfer
+2026-07-28,Almaty 4,Dana,Customer 193,Mixer,Plumbing,18,12500,225000,Cash
+2026-10-25,Almaty 1,Dias,Customer 222,Primer,Finishing,18,4100,73800,Cash
+2026-11-01,Almaty 1,Nursultan,Customer 76,Door,Interior,19,48000,912000,Card
+2026-06-03,Almaty 2,Nursultan,Customer 79,Mixer,Plumbing,26,12500,325000,Card
+2026-02-09,Almaty 4,Dana,Customer 8,Laminate,Flooring,57,7200,410400,Cash
+2026-08-27,Almaty 4,Alina,Customer 25,Brick,Building Materials,22,180,3960,Cash
+2026-05-10,Almaty 1,Askar,Customer 3,Window,Exterior,27,72000,1944000,Cash
+2026-07-13,Almaty 2,Aidos,Customer 34,Insulation,Roof,50,3900,195000,Cash
+2026-12-04,Almaty 4,Askar,Customer 65,Door,Interior,17,48000,816000,Bank Transfer
+2026-08-26,Almaty 1,Aidos,Customer 203,Glue,Finishing,7,2500,17500,Cash
+2026-05-14,Almaty 2,Dias,Customer 12,Drill,Tools,14,38000,532000,Cash
+2026-12-06,Almaty 1,Askar,Customer 146,Insulation,Roof,17,3900,66300,Card
+2026-05-14,Almaty 2,Askar,Customer 179,Drill,Tools,60,38000,2280000,Cash
+2026-05-07,Almaty 2,Askar,Customer 129,Screws,Hardware,1,900,900,Card
+2026-06-04,Almaty 4,Alina,Customer 3,Door,Interior,25,48000,1200000,Bank Transfer
+2026-04-05,Almaty 2,Aidos,Customer 11,Mixer,Plumbing,51,12500,637500,Card
+2026-03-28,Almaty 2,Alina,Customer 86,Saw,Tools,23,15000,345000,Card
+2026-08-27,Almaty 4,Alina,Customer 17,Cement M400,Building Materials,17,3200,54400,Cash
+2026-02-02,Almaty 3,Askar,Customer 199,Mixer,Plumbing,19,12500,237500,Bank Transfer
+2026-02-11,Almaty 2,Nursultan,Customer 222,Screws,Hardware,18,900,16200,Card
+2026-03-13,Almaty 2,Aidos,Customer 167,Door,Interior,52,48000,2496000,Cash
+2026-10-04,Almaty 1,Alina,Customer 55,Paint,Finishing,57,5400,307800,Cash
+2026-09-18,Almaty 1,Alina,Customer 197,Glue,Finishing,13,2500,32500,Bank Transfer
+2026-11-16,Almaty 3,Dana,Customer 87,Cement M400,Building Materials,16,3200,51200,Cash
+2026-10-30,Almaty 1,Alina,Customer 232,Tile,Finishing,4,4600,18400,Bank Transfer
+2026-08-19,Almaty 4,Askar,Customer 213,Brick,Building Materials,21,180,3780,Cash
+2026-08-09,Almaty 3,Dana,Customer 180,Saw,Tools,33,15000,495000,Cash
+2026-12-01,Almaty 1,Dana,Customer 4,Cement M400,Building Materials,36,3200,115200,Card
+2026-10-07,Almaty 4,Askar,Customer 24,Cable,Electrical,22,8500,187000,Cash
+2026-09-16,Almaty 4,Aidos,Customer 90,Pipe PVC,Plumbing,4,2100,8400,Card
+2026-01-15,Almaty 2,Dias,Customer 11,Hammer,Tools,14,6200,86800,Bank Transfer
+2026-11-09,Almaty 4,Nursultan,Customer 63,Glue,Finishing,54,2500,135000,Card
+2026-01-23,Almaty 3,Aidos,Customer 225,Tile,Finishing,31,4600,142600,Cash
+2026-07-19,Almaty 4,Askar,Customer 110,Gypsum Board,Building Materials,1,2900,2900,Card
+2026-05-01,Almaty 1,Askar,Customer 71,Brick,Building Materials,46,180,8280,Cash
+2026-05-28,Almaty 4,Alina,Customer 102,Primer,Finishing,15,4100,61500,Bank Transfer
+2026-03-15,Almaty 1,Dana,Customer 132,Tile,Finishing,47,4600,216200,Bank Transfer
+2026-03-19,Almaty 2,Dana,Customer 181,Mixer,Plumbing,34,12500,425000,Cash
+2026-09-27,Almaty 3,Dias,Customer 172,Cement M400,Building Materials,60,3200,192000,Cash
+2026-11-03,Almaty 2,Askar,Customer 75,Insulation,Roof,58,3900,226200,Cash
+2026-10-19,Almaty 2,Dana,Customer 152,Brick,Building Materials,26,180,4680,Card
+2026-09-01,Almaty 2,Alina,Customer 201,Window,Exterior,27,72000,1944000,Card
+2026-05-28,Almaty 3,Dana,Customer 126,Pipe PVC,Plumbing,44,2100,92400,Cash
+2026-09-02,Almaty 4,Dana,Customer 154,Brick,Building Materials,46,180,8280,Card
+2026-11-07,Almaty 3,Dana,Customer 41,Cable,Electrical,28,8500,238000,Card
+2026-06-21,Almaty 4,Dias,Customer 241,Pipe PVC,Plumbing,59,2100,123900,Cash
+2026-09-21,Almaty 2,Nursultan,Customer 217,Window,Exterior,18,72000,1296000,Card
+2026-11-01,Almaty 3,Nursultan,Customer 125,Hammer,Tools,37,6200,229400,Cash
+2026-06-09,Almaty 1,Dana,Customer 104,Primer,Finishing,13,4100,53300,Bank Transfer
+2026-10-11,Almaty 4,Nursultan,Customer 246,Primer,Finishing,40,4100,164000,Cash
+2026-02-24,Almaty 1,Dana,Customer 29,Window,Exterior,31,72000,2232000,Bank Transfer
+2026-12-06,Almaty 3,Nursultan,Customer 162,Saw,Tools,30,15000,450000,Card
+2026-01-22,Almaty 3,Nursultan,Customer 154,Insulation,Roof,23,3900,89700,Bank Transfer
+2026-02-04,Almaty 4,Dana,Customer 64,Laminate,Flooring,40,7200,288000,Card
+2026-07-16,Almaty 4,Dana,Customer 176,Window,Exterior,48,72000,3456000,Card
+2026-02-25,Almaty 3,Dias,Customer 102,LED Lamp,Electrical,54,1600,86400,Card
+2026-10-31,Almaty 3,Dias,Customer 51,LED Lamp,Electrical,12,1600,19200,Card
+2026-02-23,Almaty 1,Nursultan,Customer 133,Cable,Electrical,18,8500,153000,Card
+2026-05-17,Almaty 1,Aidos,Customer 182,Insulation,Roof,31,3900,120900,Cash
+2026-08-05,Almaty 2,Nursultan,Customer 152,Insulation,Roof,32,3900,124800,Card
+2026-04-29,Almaty 4,Askar,Customer 167,Brick,Building Materials,55,180,9900,Bank Transfer
+2026-07-13,Almaty 1,Aidos,Customer 183,Insulation,Roof,58,3900,226200,Bank Transfer
+2026-02-12,Almaty 3,Dias,Customer 32,Brick,Building Materials,22,180,3960,Bank Transfer
+2026-04-17,Almaty 2,Dias,Customer 78,Saw,Tools,56,15000,840000,Cash
+2026-05-03,Almaty 3,Alina,Customer 165,Drill,Tools,52,38000,1976000,Cash
+2026-03-29,Almaty 4,Nursultan,Customer 46,Paint,Finishing,42,5400,226800,Card
+2026-02-05,Almaty 3,Dana,Customer 139,Saw,Tools,58,15000,870000,Bank Transfer
+2026-04-28,Almaty 4,Askar,Customer 120,Door,Interior,58,48000,2784000,Bank Transfer
+2026-06-10,Almaty 1,Dana,Customer 116,Drill,Tools,52,38000,1976000,Bank Transfer
+2026-04-15,Almaty 1,Aidos,Customer 237,LED Lamp,Electrical,59,1600,94400,Card
+2026-09-11,Almaty 4,Aidos,Customer 156,Saw,Tools,7,15000,105000,Card
+2026-05-25,Almaty 1,Aidos,Customer 170,Primer,Finishing,6,4100,24600,Cash
+2026-01-29,Almaty 1,Askar,Customer 175,Gypsum Board,Building Materials,35,2900,101500,Cash
+2026-10-24,Almaty 3,Dana,Customer 107,Door,Interior,14,48000,672000,Cash
+2026-06-22,Almaty 4,Dana,Customer 108,Screws,Hardware,60,900,54000,Cash
+2026-09-17,Almaty 1,Nursultan,Customer 16,Roof Sheet,Roof,28,13500,378000,Card
+2026-11-15,Almaty 4,Askar,Customer 250,Roof Sheet,Roof,50,13500,675000,Cash
+2026-07-21,Almaty 3,Dana,Customer 151,Paint,Finishing,53,5400,286200,Card
+2026-10-29,Almaty 4,Alina,Customer 241,Screws,Hardware,11,900,9900,Card
+2026-03-02,Almaty 1,Dana,Customer 247,Glue,Finishing,36,2500,90000,Bank Transfer
+2026-07-06,Almaty 4,Alina,Customer 145,Drill,Tools,6,38000,228000,Card
+2026-05-27,Almaty 3,Alina,Customer 115,Roof Sheet,Roof,22,13500,297000,Cash
+2026-08-06,Almaty 4,Nursultan,Customer 104,Laminate,Flooring,25,7200,180000,Cash
+2026-07-23,Almaty 3,Dana,Customer 59,Brick,Building Materials,45,180,8100,Bank Transfer
+2026-09-29,Almaty 2,Askar,Customer 226,Drill,Tools,25,38000,950000,Cash
+2026-08-19,Almaty 3,Dana,Customer 99,Laminate,Flooring,9,7200,64800,Card
+2026-01-27,Almaty 2,Alina,Customer 192,Door,Interior,42,48000,2016000,Cash
+2026-05-28,Almaty 3,Dias,Customer 182,Door,Interior,51,48000,2448000,Cash
+2026-07-05,Almaty 2,Dana,Customer 93,Hammer,Tools,57,6200,353400,Card
+2026-06-28,Almaty 1,Alina,Customer 228,Pipe PVC,Plumbing,49,2100,102900,Bank Transfer
+2026-07-19,Almaty 4,Dana,Customer 225,Gypsum Board,Building Materials,9,2900,26100,Cash
+2026-07-15,Almaty 2,Aidos,Customer 15,Hammer,Tools,33,6200,204600,Cash
+2026-03-09,Almaty 2,Dias,Customer 236,Insulation,Roof,39,3900,152100,Cash
+2026-04-03,Almaty 3,Dias,Customer 79,Paint,Finishing,13,5400,70200,Card
+2026-08-14,Almaty 1,Dias,Customer 4,Window,Exterior,16,72000,1152000,Card
+2026-04-21,Almaty 2,Nursultan,Customer 218,Primer,Finishing,26,4100,106600,Cash
+2026-04-08,Almaty 4,Aidos,Customer 133,Glue,Finishing,16,2500,40000,Bank Transfer
+2026-06-22,Almaty 1,Askar,Customer 243,Insulation,Roof,29,3900,113100,Cash
+2026-04-11,Almaty 4,Aidos,Customer 51,Gypsum Board,Building Materials,60,2900,174000,Card
+2026-04-13,Almaty 2,Nursultan,Customer 175,Mixer,Plumbing,54,12500,675000,Bank Transfer
+2026-06-28,Almaty 4,Nursultan,Customer 189,Drill,Tools,11,38000,418000,Bank Transfer
+2026-06-27,Almaty 4,Askar,Customer 20,Screws,Hardware,60,900,54000,Card
+2026-09-12,Almaty 1,Dana,Customer 154,Primer,Finishing,59,4100,241900,Bank Transfer
+2026-07-02,Almaty 4,Alina,Customer 102,Hammer,Tools,60,6200,372000,Cash
+2026-04-18,Almaty 2,Alina,Customer 227,Mixer,Plumbing,42,12500,525000,Bank Transfer
+2026-01-04,Almaty 4,Nursultan,Customer 41,Laminate,Flooring,49,7200,352800,Cash
+2026-02-20,Almaty 3,Dana,Customer 10,Mixer,Plumbing,51,12500,637500,Bank Transfer
+2026-10-12,Almaty 1,Aidos,Customer 184,Paint,Finishing,13,5400,70200,Bank Transfer
+2026-10-14,Almaty 4,Alina,Customer 188,Mixer,Plumbing,9,12500,112500,Bank Transfer
+2026-01-03,Almaty 4,Dias,Customer 11,Insulation,Roof,43,3900,167700,Cash
+2026-10-24,Almaty 2,Dias,Customer 153,Saw,Tools,45,15000,675000,Card
+2026-02-07,Almaty 1,Aidos,Customer 155,Mixer,Plumbing,37,12500,462500,Bank Transfer
+2026-09-29,Almaty 3,Aidos,Customer 135,Window,Exterior,45,72000,3240000,Card
+2026-06-19,Almaty 1,Dias,Customer 15,Door,Interior,45,48000,2160000,Cash
+2026-09-03,Almaty 4,Askar,Customer 32,Roof Sheet,Roof,37,13500,499500,Card
+2026-08-25,Almaty 2,Nursultan,Customer 226,Mixer,Plumbing,28,12500,350000,Card
+2026-12-27,Almaty 4,Aidos,Customer 31,Pipe PVC,Plumbing,20,2100,42000,Cash
+2026-09-12,Almaty 2,Alina,Customer 228,LED Lamp,Electrical,6,1600,9600,Card
+2026-03-01,Almaty 4,Dana,Customer 42,Mixer,Plumbing,39,12500,487500,Card
+2026-01-03,Almaty 3,Askar,Customer 38,Cement M400,Building Materials,41,3200,131200,Card
+2026-07-02,Almaty 4,Alina,Customer 56,Cable,Electrical,34,8500,289000,Card
+2026-10-18,Almaty 4,Alina,Customer 88,Insulation,Roof,39,3900,152100,Bank Transfer
+2026-04-14,Almaty 2,Alina,Customer 247,Paint,Finishing,26,5400,140400,Card
+2026-02-21,Almaty 4,Nursultan,Customer 12,Roof Sheet,Roof,23,13500,310500,Bank Transfer
+2026-07-23,Almaty 1,Nursultan,Customer 157,Tile,Finishing,4,4600,18400,Cash
+2026-12-15,Almaty 1,Dias,Customer 43,Door,Interior,27,48000,1296000,Card
+2026-08-16,Almaty 4,Alina,Customer 198,Cable,Electrical,12,8500,102000,Card
+2026-08-09,Almaty 2,Aidos,Customer 130,Laminate,Flooring,18,7200,129600,Cash
+2026-02-27,Almaty 4,Aidos,Customer 161,Mixer,Plumbing,46,12500,575000,Card
+2026-05-18,Almaty 2,Nursultan,Customer 147,Door,Interior,39,48000,1872000,Bank Transfer
+2026-07-20,Almaty 2,Dana,Customer 48,Primer,Finishing,58,4100,237800,Cash
+2026-07-27,Almaty 3,Alina,Customer 137,Laminate,Flooring,20,7200,144000,Cash
+2026-11-19,Almaty 1,Askar,Customer 131,Mixer,Plumbing,47,12500,587500,Cash
+2026-10-28,Almaty 1,Dias,Customer 40,Gypsum Board,Building Materials,30,2900,87000,Bank Transfer
+2026-12-11,Almaty 2,Dias,Customer 22,Glue,Finishing,57,2500,142500,Cash
+2026-02-22,Almaty 4,Nursultan,Customer 95,Paint,Finishing,7,5400,37800,Bank Transfer
+2026-10-08,Almaty 3,Alina,Customer 177,Glue,Finishing,29,2500,72500,Cash
+2026-05-04,Almaty 3,Dana,Customer 168,Hammer,Tools,27,6200,167400,Cash
+2026-11-09,Almaty 2,Dias,Customer 68,Hammer,Tools,44,6200,272800,Bank Transfer
+2026-02-26,Almaty 3,Nursultan,Customer 40,Saw,Tools,21,15000,315000,Cash
+2026-09-21,Almaty 1,Askar,Customer 62,Paint,Finishing,43,5400,232200,Cash
+2026-04-13,Almaty 2,Aidos,Customer 66,Screws,Hardware,43,900,38700,Card
+2026-04-15,Almaty 3,Askar,Customer 246,Saw,Tools,46,15000,690000,Bank Transfer
+2026-03-08,Almaty 2,Dana,Customer 132,Laminate,Flooring,26,7200,187200,Card
+2026-03-03,Almaty 4,Aidos,Customer 91,Laminate,Flooring,25,7200,180000,Bank Transfer
+2026-02-11,Almaty 3,Dana,Customer 119,Insulation,Roof,20,3900,78000,Bank Transfer
+2026-03-12,Almaty 3,Aidos,Customer 146,Brick,Building Materials,18,180,3240,Cash
+2026-06-19,Almaty 3,Aidos,Customer 186,Primer,Finishing,18,4100,73800,Cash
+2026-06-30,Almaty 4,Dana,Customer 179,Laminate,Flooring,16,7200,115200,Card
+2026-01-19,Almaty 2,Aidos,Customer 76,Paint,Finishing,15,5400,81000,Cash
+2026-10-09,Almaty 2,Dias,Customer 78,Laminate,Flooring,38,7200,273600,Card
+2026-12-11,Almaty 3,Dias,Customer 144,Roof Sheet,Roof,20,13500,270000,Bank Transfer
+2026-01-22,Almaty 3,Nursultan,Customer 140,Screws,Hardware,25,900,22500,Card
+2026-01-25,Almaty 1,Nursultan,Customer 175,Brick,Building Materials,48,180,8640,Cash
+2026-01-02,Almaty 3,Askar,Customer 188,Paint,Finishing,38,5400,205200,Cash
+2026-04-06,Almaty 4,Dana,Customer 9,Roof Sheet,Roof,18,13500,243000,Card
+2026-05-23,Almaty 2,Askar,Customer 98,Saw,Tools,33,15000,495000,Card
+2026-09-01,Almaty 4,Askar,Customer 18,Tile,Finishing,8,4600,36800,Card
+2026-03-01,Almaty 1,Askar,Customer 129,Tile,Finishing,46,4600,211600,Card
+2026-08-05,Almaty 4,Nursultan,Customer 110,Roof Sheet,Roof,50,13500,675000,Card
+2026-03-24,Almaty 1,Dias,Customer 146,Paint,Finishing,7,5400,37800,Card
+2026-06-07,Almaty 1,Dana,Customer 222,Roof Sheet,Roof,59,13500,796500,Card
+2026-11-18,Almaty 2,Dana,Customer 76,Tile,Finishing,28,4600,128800,Card
+2026-06-15,Almaty 4,Dana,Customer 204,Paint,Finishing,15,5400,81000,Cash
+2026-11-24,Almaty 2,Alina,Customer 93,Hammer,Tools,10,6200,62000,Cash
+2026-01-04,Almaty 4,Alina,Customer 226,Cement M400,Building Materials,42,3200,134400,Bank Transfer
+2026-10-19,Almaty 2,Nursultan,Customer 154,Door,Interior,11,48000,528000,Bank Transfer
+2026-10-24,Almaty 4,Dana,Customer 55,Cement M400,Building Materials,20,3200,64000,Cash
+2026-12-22,Almaty 4,Askar,Customer 10,Glue,Finishing,13,2500,32500,Card
+2026-09-05,Almaty 2,Dias,Customer 22,Laminate,Flooring,31,7200,223200,Cash
+2026-07-17,Almaty 4,Askar,Customer 172,Paint,Finishing,12,5400,64800,Cash
+2026-04-28,Almaty 1,Aidos,Customer 46,Glue,Finishing,22,2500,55000,Card
+2026-05-17,Almaty 1,Dias,Customer 77,Door,Interior,46,48000,2208000,Card
+2026-02-21,Almaty 4,Nursultan,Customer 191,Screws,Hardware,29,900,26100,Bank Transfer
+2026-07-25,Almaty 4,Alina,Customer 13,Insulation,Roof,41,3900,159900,Card
+2026-11-29,Almaty 4,Aidos,Customer 166,Gypsum Board,Building Materials,39,2900,113100,Bank Transfer
+2026-08-15,Almaty 1,Dana,Customer 190,Paint,Finishing,19,5400,102600,Bank Transfer
+2026-07-28,Almaty 3,Dias,Customer 67,Laminate,Flooring,48,7200,345600,Card
+2026-04-10,Almaty 3,Dana,Customer 37,Glue,Finishing,5,2500,12500,Cash
+2026-05-27,Almaty 3,Dias,Customer 47,Insulation,Roof,17,3900,66300,Bank Transfer
+2026-07-26,Almaty 2,Alina,Customer 24,Cement M400,Building Materials,32,3200,102400,Bank Transfer
+2026-03-03,Almaty 2,Dias,Customer 203,Gypsum Board,Building Materials,2,2900,5800,Card
+2026-11-19,Almaty 4,Aidos,Customer 46,Paint,Finishing,40,5400,216000,Card
+2026-05-24,Almaty 1,Nursultan,Customer 187,Gypsum Board,Building Materials,18,2900,52200,Bank Transfer
+2026-06-26,Almaty 2,Dana,Customer 85,Mixer,Plumbing,52,12500,650000,Cash
+2026-08-30,Almaty 1,Askar,Customer 192,Tile,Finishing,6,4600,27600,Bank Transfer
+2026-04-09,Almaty 2,Aidos,Customer 201,Screws,Hardware,22,900,19800,Card
+2026-11-10,Almaty 2,Dana,Customer 48,Saw,Tools,56,15000,840000,Card
+2026-10-01,Almaty 1,Alina,Customer 98,Window,Exterior,60,72000,4320000,Cash
+2026-03-03,Almaty 3,Nursultan,Customer 40,Saw,Tools,24,15000,360000,Bank Transfer
+2026-04-28,Almaty 4,Dana,Customer 247,Insulation,Roof,45,3900,175500,Cash
+2026-02-26,Almaty 2,Dias,Customer 232,Mixer,Plumbing,45,12500,562500,Card
+2026-03-15,Almaty 3,Dana,Customer 82,Cement M400,Building Materials,12,3200,38400,Card
+2026-01-26,Almaty 1,Nursultan,Customer 66,Glue,Finishing,23,2500,57500,Cash
+2026-09-10,Almaty 3,Dana,Customer 167,Drill,Tools,23,38000,874000,Card
+2026-05-09,Almaty 1,Askar,Customer 220,Cable,Electrical,21,8500,178500,Card
+2026-05-23,Almaty 3,Aidos,Customer 26,Brick,Building Materials,45,180,8100,Bank Transfer
+2026-01-31,Almaty 3,Aidos,Customer 136,Mixer,Plumbing,46,12500,575000,Cash
+2026-11-23,Almaty 2,Dias,Customer 158,Roof Sheet,Roof,27,13500,364500,Card
+2026-05-08,Almaty 2,Dana,Customer 250,Hammer,Tools,29,6200,179800,Bank Transfer
+2026-09-15,Almaty 1,Dias,Customer 62,Laminate,Flooring,32,7200,230400,Bank Transfer
+2026-09-28,Almaty 4,Dana,Customer 217,Insulation,Roof,59,3900,230100,Cash
+2026-05-07,Almaty 1,Aidos,Customer 177,Saw,Tools,46,15000,690000,Card
+2026-08-20,Almaty 4,Askar,Customer 172,Window,Exterior,55,72000,3960000,Card
+2026-09-04,Almaty 4,Dana,Customer 128,Screws,Hardware,41,900,36900,Bank Transfer
+2026-06-22,Almaty 4,Alina,Customer 247,Tile,Finishing,12,4600,55200,Bank Transfer
+2026-01-12,Almaty 2,Askar,Customer 56,Cement M400,Building Materials,49,3200,156800,Cash
+2026-06-07,Almaty 1,Dana,Customer 71,LED Lamp,Electrical,23,1600,36800,Card
+2026-07-16,Almaty 4,Dias,Customer 227,Insulation,Roof,35,3900,136500,Bank Transfer
+2026-08-22,Almaty 4,Dana,Customer 11,Insulation,Roof,4,3900,15600,Card
+2026-05-19,Almaty 4,Askar,Customer 112,Laminate,Flooring,25,7200,180000,Card
+2026-02-25,Almaty 2,Dias,Customer 63,Insulation,Roof,50,3900,195000,Card
+2026-12-08,Almaty 1,Nursultan,Customer 112,Cement M400,Building Materials,37,3200,118400,Cash
+2026-01-06,Almaty 4,Dias,Customer 212,Screws,Hardware,46,900,41400,Cash
+2026-07-11,Almaty 1,Alina,Customer 51,Cable,Electrical,42,8500,357000,Bank Transfer
+2026-04-10,Almaty 4,Aidos,Customer 75,Mixer,Plumbing,25,12500,312500,Cash
+2026-05-02,Almaty 3,Alina,Customer 57,Door,Interior,43,48000,2064000,Bank Transfer
+2026-07-20,Almaty 2,Nursultan,Customer 133,Gypsum Board,Building Materials,60,2900,174000,Cash
+2026-10-08,Almaty 3,Askar,Customer 16,Cement M400,Building Materials,45,3200,144000,Bank Transfer
+2026-06-21,Almaty 1,Aidos,Customer 196,Pipe PVC,Plumbing,33,2100,69300,Bank Transfer
+2026-02-13,Almaty 3,Nursultan,Customer 132,Door,Interior,46,48000,2208000,Cash
+2026-10-11,Almaty 2,Alina,Customer 62,Screws,Hardware,35,900,31500,Card
+2026-01-27,Almaty 2,Aidos,Customer 113,Pipe PVC,Plumbing,50,2100,105000,Cash
+2026-09-12,Almaty 4,Dana,Customer 193,LED Lamp,Electrical,34,1600,54400,Card
+2026-03-24,Almaty 1,Dias,Customer 59,Laminate,Flooring,33,7200,237600,Cash
+2026-10-22,Almaty 3,Askar,Customer 115,Mixer,Plumbing,13,12500,162500,Cash
+2026-04-11,Almaty 4,Dias,Customer 106,Drill,Tools,10,38000,380000,Card
+2026-07-16,Almaty 1,Dias,Customer 175,Brick,Building Materials,59,180,10620,Card
+2026-04-17,Almaty 3,Askar,Customer 211,Roof Sheet,Roof,36,13500,486000,Bank Transfer
+2026-12-10,Almaty 3,Aidos,Customer 34,Roof Sheet,Roof,12,13500,162000,Bank Transfer
+2026-12-16,Almaty 2,Dana,Customer 117,Drill,Tools,19,38000,722000,Cash
+2026-02-16,Almaty 4,Nursultan,Customer 233,Hammer,Tools,38,6200,235600,Bank Transfer
+2026-01-23,Almaty 2,Askar,Customer 139,Hammer,Tools,52,6200,322400,Bank Transfer
+2026-08-22,Almaty 2,Alina,Customer 227,Brick,Building Materials,9,180,1620,Bank Transfer
+2026-05-03,Almaty 2,Nursultan,Customer 173,Drill,Tools,10,38000,380000,Cash
+2026-12-23,Almaty 4,Askar,Customer 130,Brick,Building Materials,34,180,6120,Card
+2026-12-14,Almaty 3,Askar,Customer 31,Saw,Tools,36,15000,540000,Bank Transfer
+2026-09-19,Almaty 3,Alina,Customer 82,Pipe PVC,Plumbing,7,2100,14700,Card
+2026-06-16,Almaty 1,Aidos,Customer 93,Primer,Finishing,6,4100,24600,Cash
+2026-04-01,Almaty 2,Dana,Customer 127,Pipe PVC,Plumbing,16,2100,33600,Cash
+2026-06-15,Almaty 2,Askar,Customer 123,Tile,Finishing,15,4600,69000,Cash
+2026-10-26,Almaty 1,Dias,Customer 95,Cement M400,Building Materials,56,3200,179200,Card
+2026-11-21,Almaty 2,Nursultan,Customer 156,Roof Sheet,Roof,55,13500,742500,Card
+2026-08-20,Almaty 2,Nursultan,Customer 170,Laminate,Flooring,35,7200,252000,Card
+2026-11-14,Almaty 1,Dana,Customer 221,Laminate,Flooring,40,7200,288000,Cash
+2026-11-23,Almaty 2,Dias,Customer 73,Primer,Finishing,52,4100,213200,Card
+2026-01-21,Almaty 1,Aidos,Customer 132,Gypsum Board,Building Materials,28,2900,81200,Card
+2026-06-07,Almaty 2,Askar,Customer 133,Gypsum Board,Building Materials,5,2900,14500,Bank Transfer
+2026-01-16,Almaty 1,Askar,Customer 161,Paint,Finishing,28,5400,151200,Bank Transfer
+2026-03-07,Almaty 3,Askar,Customer 185,Hammer,Tools,8,6200,49600,Bank Transfer
+2026-09-07,Almaty 3,Dias,Customer 217,Screws,Hardware,18,900,16200,Cash
+2026-07-27,Almaty 4,Askar,Customer 129,Brick,Building Materials,9,180,1620,Cash
+2026-12-10,Almaty 1,Alina,Customer 164,Cable,Electrical,28,8500,238000,Bank Transfer
+2026-01-06,Almaty 4,Askar,Customer 49,Pipe PVC,Plumbing,17,2100,35700,Bank Transfer
+2026-11-22,Almaty 4,Askar,Customer 112,Gypsum Board,Building Materials,24,2900,69600,Card
+2026-09-28,Almaty 3,Aidos,Customer 162,Drill,Tools,48,38000,1824000,Cash
+2026-08-18,Almaty 4,Dias,Customer 113,Brick,Building Materials,33,180,5940,Bank Transfer
+2026-08-20,Almaty 1,Askar,Customer 91,Window,Exterior,28,72000,2016000,Cash
+2026-01-30,Almaty 4,Askar,Customer 125,Roof Sheet,Roof,39,13500,526500,Cash
+2026-09-09,Almaty 4,Alina,Customer 215,Hammer,Tools,5,6200,31000,Bank Transfer
+2026-05-16,Almaty 4,Dana,Customer 15,Window,Exterior,34,72000,2448000,Bank Transfer
+2026-12-13,Almaty 3,Askar,Customer 135,Paint,Finishing,28,5400,151200,Cash
+2026-08-12,Almaty 4,Alina,Customer 192,Paint,Finishing,32,5400,172800,Card
+2025-12-31,Almaty 2,Askar,Customer 140,Drill,Tools,53,38000,2014000,Cash
+2025-12-31,Almaty 3,Alina,Customer 209,Window,Exterior,53,72000,3816000,Cash
+2026-07-03,Almaty 3,Dana,Customer 69,Screws,Hardware,5,900,4500,Cash
+2026-07-01,Almaty 2,Alina,Customer 28,Screws,Hardware,12,900,10800,Cash
+2026-12-28,Almaty 3,Dana,Customer 13,Cable,Electrical,3,8500,25500,Cash
+2026-01-19,Almaty 2,Nursultan,Customer 131,Insulation,Roof,39,3900,152100,Cash
+2026-07-04,Almaty 2,Alina,Customer 122,Window,Exterior,51,72000,3672000,Cash
+2026-06-04,Almaty 4,Aidos,Customer 165,Drill,Tools,59,38000,2242000,Cash
+2026-03-15,Almaty 2,Askar,Customer 90,Brick,Building Materials,4,180,720,Bank Transfer
+2026-06-14,Almaty 1,Nursultan,Customer 233,Mixer,Plumbing,12,12500,150000,Bank Transfer
+2026-09-09,Almaty 4,Dana,Customer 46,Brick,Building Materials,12,180,2160,Card
+2026-10-26,Almaty 3,Askar,Customer 32,Window,Exterior,45,72000,3240000,Bank Transfer
+2026-08-16,Almaty 1,Nursultan,Customer 134,Screws,Hardware,33,900,29700,Bank Transfer
+2026-05-18,Almaty 3,Dias,Customer 64,Window,Exterior,51,72000,3672000,Bank Transfer
+2026-12-10,Almaty 2,Nursultan,Customer 160,Roof Sheet,Roof,30,13500,405000,Bank Transfer
+2026-11-15,Almaty 3,Askar,Customer 109,Drill,Tools,28,38000,1064000,Cash
+2026-06-19,Almaty 1,Askar,Customer 17,Cement M400,Building Materials,44,3200,140800,Cash
+2026-06-17,Almaty 4,Aidos,Customer 243,Mixer,Plumbing,40,12500,500000,Bank Transfer
+2026-05-07,Almaty 3,Aidos,Customer 79,Pipe PVC,Plumbing,50,2100,105000,Cash
+2026-08-25,Almaty 2,Alina,Customer 169,Tile,Finishing,27,4600,124200,Card
+2026-04-26,Almaty 4,Nursultan,Customer 26,Tile,Finishing,16,4600,73600,Card
+2026-10-16,Almaty 4,Askar,Customer 146,Brick,Building Materials,9,180,1620,Card
+2026-09-01,Almaty 1,Aidos,Customer 157,Glue,Finishing,12,2500,30000,Bank Transfer
+2026-12-04,Almaty 4,Nursultan,Customer 63,Cable,Electrical,54,8500,459000,Bank Transfer
+2026-12-19,Almaty 2,Dias,Customer 242,Paint,Finishing,38,5400,205200,Cash
+2026-12-29,Almaty 2,Dias,Customer 84,Gypsum Board,Building Materials,40,2900,116000,Bank Transfer
+2026-12-19,Almaty 4,Dana,Customer 129,LED Lamp,Electrical,38,1600,60800,Card
+2026-11-28,Almaty 4,Askar,Customer 139,Saw,Tools,37,15000,555000,Card
+2026-10-31,Almaty 4,Nursultan,Customer 225,Laminate,Flooring,20,7200,144000,Bank Transfer
+2026-11-07,Almaty 3,Aidos,Customer 35,Saw,Tools,45,15000,675000,Cash
+2026-06-23,Almaty 2,Alina,Customer 211,Mixer,Plumbing,21,12500,262500,Card
+2026-05-01,Almaty 1,Dias,Customer 155,Pipe PVC,Plumbing,50,2100,105000,Bank Transfer
+2026-09-18,Almaty 3,Alina,Customer 231,Gypsum Board,Building Materials,56,2900,162400,Bank Transfer
+2026-09-06,Almaty 2,Alina,Customer 218,Laminate,Flooring,55,7200,396000,Cash
+2026-03-12,Almaty 3,Dana,Customer 110,Tile,Finishing,40,4600,184000,Cash
+2026-11-27,Almaty 3,Aidos,Customer 36,Insulation,Roof,25,3900,97500,Card
+2026-08-08,Almaty 2,Askar,Customer 196,Window,Exterior,19,72000,1368000,Bank Transfer
+2026-04-30,Almaty 2,Aidos,Customer 24,Glue,Finishing,7,2500,17500,Cash
+2026-02-11,Almaty 3,Nursultan,Customer 124,Saw,Tools,13,15000,195000,Card
+2026-08-29,Almaty 2,Dana,Customer 11,Insulation,Roof,40,3900,156000,Card
+2026-01-18,Almaty 1,Nursultan,Customer 242,Hammer,Tools,50,6200,310000,Card
+2026-08-21,Almaty 4,Askar,Customer 129,LED Lamp,Electrical,3,1600,4800,Cash
+2026-01-22,Almaty 3,Dias,Customer 191,Glue,Finishing,55,2500,137500,Cash
+2026-09-07,Almaty 3,Askar,Customer 204,LED Lamp,Electrical,57,1600,91200,Bank Transfer
+2026-02-18,Almaty 3,Alina,Customer 167,Tile,Finishing,41,4600,188600,Card
+2026-01-20,Almaty 4,Aidos,Customer 160,Paint,Finishing,45,5400,243000,Cash
+2026-10-14,Almaty 1,Nursultan,Customer 54,Saw,Tools,57,15000,855000,Card
+2026-08-14,Almaty 3,Nursultan,Customer 113,Roof Sheet,Roof,34,13500,459000,Card
+2026-07-17,Almaty 4,Askar,Customer 68,Hammer,Tools,30,6200,186000,Card
+2026-06-15,Almaty 4,Alina,Customer 173,Screws,Hardware,8,900,7200,Cash
+2026-03-20,Almaty 2,Dias,Customer 201,Tile,Finishing,22,4600,101200,Bank Transfer
+2026-12-09,Almaty 2,Nursultan,Customer 244,Glue,Finishing,14,2500,35000,Card
+2026-09-19,Almaty 2,Dana,Customer 238,Drill,Tools,14,38000,532000,Cash
+2026-01-28,Almaty 1,Nursultan,Customer 106,Cable,Electrical,9,8500,76500,Bank Transfer
+2026-05-03,Almaty 3,Dana,Customer 63,Saw,Tools,30,15000,450000,Card
+2026-11-01,Almaty 1,Alina,Customer 195,Cable,Electrical,40,8500,340000,Bank Transfer
+2026-01-04,Almaty 2,Alina,Customer 49,Laminate,Flooring,55,7200,396000,Card
+2026-10-31,Almaty 2,Dana,Customer 82,Hammer,Tools,21,6200,130200,Card
+2026-01-31,Almaty 1,Alina,Customer 2,Primer,Finishing,42,4100,172200,Card
+2026-11-14,Almaty 1,Dias,Customer 185,Screws,Hardware,22,900,19800,Card
+2026-02-25,Almaty 3,Dana,Customer 201,Insulation,Roof,34,3900,132600,Bank Transfer
+2026-02-07,Almaty 4,Nursultan,Customer 164,Window,Exterior,10,72000,720000,Cash
+2026-05-05,Almaty 4,Alina,Customer 177,Hammer,Tools,42,6200,260400,Card
+2026-09-17,Almaty 2,Dias,Customer 93,Cement M400,Building Materials,40,3200,128000,Bank Transfer
+2026-10-23,Almaty 4,Askar,Customer 85,Cement M400,Building Materials,48,3200,153600,Bank Transfer
+2026-04-03,Almaty 3,Askar,Customer 234,Drill,Tools,4,38000,152000,Cash
+2026-08-23,Almaty 3,Nursultan,Customer 70,Tile,Finishing,45,4600,207000,Card
+2026-03-15,Almaty 3,Askar,Customer 9,LED Lamp,Electrical,30,1600,48000,Cash
+2026-01-30,Almaty 2,Dana,Customer 212,Brick,Building Materials,23,180,4140,Bank Transfer
+2026-11-02,Almaty 3,Askar,Customer 173,LED Lamp,Electrical,59,1600,94400,Cash
+2026-03-24,Almaty 1,Alina,Customer 160,Tile,Finishing,36,4600,165600,Bank Transfer
+2026-07-02,Almaty 3,Aidos,Customer 157,Cement M400,Building Materials,38,3200,121600,Card
+2026-05-06,Almaty 2,Askar,Customer 92,Drill,Tools,8,38000,304000,Cash
+2026-11-17,Almaty 4,Dana,Customer 38,Mixer,Plumbing,49,12500,612500,Card
+2026-06-07,Almaty 2,Aidos,Customer 213,Roof Sheet,Roof,10,13500,135000,Cash
+2026-07-19,Almaty 4,Nursultan,Customer 168,Gypsum Board,Building Materials,33,2900,95700,Cash
+2026-06-18,Almaty 3,Dana,Customer 130,Insulation,Roof,6,3900,23400,Bank Transfer
+2026-02-23,Almaty 4,Askar,Customer 238,Saw,Tools,29,15000,435000,Card
+2026-06-07,Almaty 3,Aidos,Customer 192,Saw,Tools,18,15000,270000,Card
+2026-01-08,Almaty 4,Nursultan,Customer 165,Gypsum Board,Building Materials,55,2900,159500,Cash
+2026-11-22,Almaty 2,Askar,Customer 16,Roof Sheet,Roof,54,13500,729000,Card
+2026-06-04,Almaty 1,Dias,Customer 183,Primer,Finishing,48,4100,196800,Bank Transfer
+2026-01-27,Almaty 3,Alina,Customer 1,Drill,Tools,59,38000,2242000,Card
+2026-04-02,Almaty 1,Dana,Customer 139,Window,Exterior,45,72000,3240000,Cash
+2026-06-18,Almaty 3,Dana,Customer 190,Door,Interior,59,48000,2832000,Card
+2026-04-20,Almaty 4,Nursultan,Customer 191,Roof Sheet,Roof,15,13500,202500,Bank Transfer
+2026-06-09,Almaty 4,Dias,Customer 127,Cable,Electrical,29,8500,246500,Card
+2026-04-23,Almaty 4,Dana,Customer 160,Drill,Tools,32,38000,1216000,Card
+2026-01-02,Almaty 3,Dias,Customer 26,Cable,Electrical,43,8500,365500,Bank Transfer
+2026-04-09,Almaty 2,Nursultan,Customer 53,Saw,Tools,14,15000,210000,Card
+2026-10-30,Almaty 4,Nursultan,Customer 112,Insulation,Roof,29,3900,113100,Card
+2026-10-22,Almaty 4,Dana,Customer 47,Hammer,Tools,11,6200,68200,Bank Transfer
+2026-02-15,Almaty 2,Nursultan,Customer 110,Cable,Electrical,3,8500,25500,Bank Transfer
+2026-07-23,Almaty 2,Askar,Customer 12,Door,Interior,58,48000,2784000,Cash
+2026-03-08,Almaty 3,Nursultan,Customer 205,Drill,Tools,7,38000,266000,Card
+2026-10-16,Almaty 2,Askar,Customer 203,Saw,Tools,52,15000,780000,Cash
+2026-10-08,Almaty 4,Dias,Customer 38,Tile,Finishing,7,4600,32200,Bank Transfer
+2026-02-02,Almaty 1,Askar,Customer 112,Primer,Finishing,43,4100,176300,Card
+2026-04-29,Almaty 3,Aidos,Customer 123,Drill,Tools,25,38000,950000,Bank Transfer
+2026-04-18,Almaty 4,Aidos,Customer 176,Door,Interior,42,48000,2016000,Card
+2026-08-09,Almaty 3,Nursultan,Customer 57,Drill,Tools,13,38000,494000,Card
+2026-03-15,Almaty 1,Nursultan,Customer 150,Glue,Finishing,42,2500,105000,Cash
+2026-12-24,Almaty 2,Aidos,Customer 45,Glue,Finishing,11,2500,27500,Bank Transfer
+2026-11-09,Almaty 3,Askar,Customer 69,Insulation,Roof,46,3900,179400,Card
+2026-01-23,Almaty 4,Nursultan,Customer 116,Mixer,Plumbing,39,12500,487500,Card
+2026-03-04,Almaty 2,Nursultan,Customer 201,Gypsum Board,Building Materials,32,2900,92800,Card
+2026-01-03,Almaty 4,Nursultan,Customer 114,Cable,Electrical,10,8500,85000,Card
+2026-07-31,Almaty 1,Dana,Customer 116,Mixer,Plumbing,54,12500,675000,Card
+2026-05-09,Almaty 4,Nursultan,Customer 193,Saw,Tools,29,15000,435000,Cash
+2026-04-18,Almaty 2,Aidos,Customer 40,Saw,Tools,42,15000,630000,Cash
+2026-01-04,Almaty 2,Alina,Customer 129,Mixer,Plumbing,18,12500,225000,Cash
+2026-03-04,Almaty 3,Nursultan,Customer 160,Roof Sheet,Roof,54,13500,729000,Cash
+2026-03-05,Almaty 3,Nursultan,Customer 31,Glue,Finishing,54,2500,135000,Cash
+2026-08-01,Almaty 4,Nursultan,Customer 249,Paint,Finishing,29,5400,156600,Bank Transfer
+2026-12-09,Almaty 4,Aidos,Customer 97,Mixer,Plumbing,41,12500,512500,Cash
+2026-02-07,Almaty 4,Alina,Customer 45,Tile,Finishing,20,4600,92000,Card
+2026-10-16,Almaty 4,Dias,Customer 125,Screws,Hardware,39,900,35100,Bank Transfer
+2026-10-15,Almaty 2,Dias,Customer 153,Saw,Tools,22,15000,330000,Cash
+2026-12-14,Almaty 4,Nursultan,Customer 98,Glue,Finishing,27,2500,67500,Card
+2026-02-26,Almaty 3,Askar,Customer 35,Laminate,Flooring,13,7200,93600,Card
+2026-09-16,Almaty 3,Dana,Customer 225,Insulation,Roof,9,3900,35100,Bank Transfer
+2026-04-17,Almaty 3,Alina,Customer 61,Mixer,Plumbing,10,12500,125000,Cash
+2026-02-27,Almaty 4,Aidos,Customer 110,Tile,Finishing,42,4600,193200,Card
+2026-07-21,Almaty 2,Aidos,Customer 231,Hammer,Tools,55,6200,341000,Bank Transfer
+2026-03-08,Almaty 1,Askar,Customer 80,Brick,Building Materials,55,180,9900,Card
+2026-11-16,Almaty 2,Aidos,Customer 98,Cable,Electrical,22,8500,187000,Card
+2026-11-11,Almaty 3,Alina,Customer 209,Screws,Hardware,60,900,54000,Cash
+2026-07-31,Almaty 2,Nursultan,Customer 127,Laminate,Flooring,54,7200,388800,Cash
+2026-12-13,Almaty 1,Dias,Customer 226,Cement M400,Building Materials,21,3200,67200,Card
+2026-07-06,Almaty 1,Alina,Customer 247,LED Lamp,Electrical,49,1600,78400,Card
+2026-11-11,Almaty 3,Nursultan,Customer 64,Door,Interior,11,48000,528000,Cash
+2026-09-21,Almaty 3,Dias,Customer 203,Cement M400,Building Materials,48,3200,153600,Bank Transfer
+2026-03-08,Almaty 1,Nursultan,Customer 122,Drill,Tools,6,38000,228000,Cash
+2026-07-10,Almaty 4,Aidos,Customer 236,Door,Interior,26,48000,1248000,Cash
+2026-11-24,Almaty 4,Dana,Customer 117,Cable,Electrical,19,8500,161500,Bank Transfer
+2026-12-22,Almaty 1,Dana,Customer 66,Screws,Hardware,25,900,22500,Bank Transfer
+2026-03-24,Almaty 3,Dana,Customer 15,Door,Interior,22,48000,1056000,Cash
+2026-09-24,Almaty 2,Askar,Customer 191,Primer,Finishing,31,4100,127100,Card
+2026-03-12,Almaty 2,Aidos,Customer 137,Pipe PVC,Plumbing,45,2100,94500,Cash
+2026-05-13,Almaty 2,Dana,Customer 123,LED Lamp,Electrical,47,1600,75200,Cash
+2026-01-01,Almaty 2,Dana,Customer 30,Saw,Tools,57,15000,855000,Bank Transfer
+2026-02-15,Almaty 2,Dana,Customer 233,Paint,Finishing,36,5400,194400,Card
+2026-09-05,Almaty 1,Aidos,Customer 166,Door,Interior,52,48000,2496000,Cash
+2026-07-21,Almaty 1,Dias,Customer 202,Insulation,Roof,33,3900,128700,Card
+2026-08-01,Almaty 3,Dana,Customer 37,Laminate,Flooring,34,7200,244800,Bank Transfer
+2026-05-12,Almaty 4,Aidos,Customer 15,Pipe PVC,Plumbing,58,2100,121800,Card
+2026-06-04,Almaty 2,Alina,Customer 142,Primer,Finishing,4,4100,16400,Cash
+2026-10-21,Almaty 4,Dias,Customer 165,Cable,Electrical,34,8500,289000,Bank Transfer
+2026-10-12,Almaty 2,Alina,Customer 160,Window,Exterior,2,72000,144000,Cash
+2026-09-11,Almaty 3,Dias,Customer 43,Cable,Electrical,9,8500,76500,Card
+2026-08-11,Almaty 3,Nursultan,Customer 43,Roof Sheet,Roof,11,13500,148500,Bank Transfer
+2026-11-14,Almaty 4,Nursultan,Customer 17,Cement M400,Building Materials,52,3200,166400,Cash
+2026-12-19,Almaty 4,Alina,Customer 127,Mixer,Plumbing,53,12500,662500,Cash
+2026-12-01,Almaty 1,Askar,Customer 238,Hammer,Tools,9,6200,55800,Bank Transfer
+2026-09-30,Almaty 1,Dana,Customer 62,Screws,Hardware,43,900,38700,Card
+2026-06-16,Almaty 4,Dana,Customer 22,Screws,Hardware,38,900,34200,Cash
+2026-06-18,Almaty 1,Dias,Customer 134,Door,Interior,17,48000,816000,Bank Transfer
+2026-04-01,Almaty 4,Askar,Customer 205,Cable,Electrical,28,8500,238000,Bank Transfer
+2026-12-11,Almaty 4,Nursultan,Customer 40,Roof Sheet,Roof,15,13500,202500,Bank Transfer
+2026-08-25,Almaty 4,Askar,Customer 249,Laminate,Flooring,23,7200,165600,Cash
+2026-05-04,Almaty 3,Dias,Customer 106,Cement M400,Building Materials,22,3200,70400,Cash
+2026-03-28,Almaty 3,Alina,Customer 238,Window,Exterior,10,72000,720000,Bank Transfer
+2026-09-22,Almaty 2,Dias,Customer 32,Window,Exterior,20,72000,1440000,Cash
+2026-05-26,Almaty 3,Askar,Customer 135,Laminate,Flooring,34,7200,244800,Cash
+2026-11-12,Almaty 1,Alina,Customer 236,Tile,Finishing,33,4600,151800,Cash
+2026-02-14,Almaty 3,Aidos,Customer 126,Door,Interior,15,48000,720000,Bank Transfer
+2026-02-23,Almaty 1,Dias,Customer 86,Window,Exterior,53,72000,3816000,Bank Transfer
+2026-06-25,Almaty 1,Alina,Customer 9,Drill,Tools,28,38000,1064000,Cash
+2026-04-08,Almaty 3,Askar,Customer 135,Screws,Hardware,45,900,40500,Bank Transfer
+2026-04-25,Almaty 3,Nursultan,Customer 215,Cement M400,Building Materials,31,3200,99200,Bank Transfer
+2026-02-02,Almaty 4,Aidos,Customer 55,Window,Exterior,42,72000,3024000,Bank Transfer
+2026-02-25,Almaty 3,Nursultan,Customer 222,Screws,Hardware,4,900,3600,Bank Transfer
+2026-01-03,Almaty 1,Dana,Customer 38,Primer,Finishing,15,4100,61500,Card
+2026-02-24,Almaty 1,Aidos,Customer 8,Cement M400,Building Materials,44,3200,140800,Card
+2026-11-27,Almaty 3,Aidos,Customer 200,Laminate,Flooring,18,7200,129600,Cash
+2026-05-04,Almaty 2,Dias,Customer 113,Window,Exterior,51,72000,3672000,Bank Transfer
+2026-09-12,Almaty 3,Dana,Customer 104,Drill,Tools,49,38000,1862000,Cash
+2026-09-01,Almaty 1,Nursultan,Customer 188,Cement M400,Building Materials,30,3200,96000,Card
+2026-08-15,Almaty 2,Askar,Customer 95,Brick,Building Materials,14,180,2520,Bank Transfer
+2026-06-18,Almaty 4,Dana,Customer 81,Primer,Finishing,17,4100,69700,Card
+2026-09-01,Almaty 1,Dana,Customer 51,Cable,Electrical,3,8500,25500,Cash
+2026-12-05,Almaty 1,Askar,Customer 171,Cement M400,Building Materials,52,3200,166400,Cash
+2026-09-04,Almaty 2,Dana,Customer 82,Hammer,Tools,44,6200,272800,Cash
+2026-07-31,Almaty 4,Aidos,Customer 126,Cable,Electrical,38,8500,323000,Bank Transfer
+2026-11-09,Almaty 3,Aidos,Customer 114,Drill,Tools,3,38000,114000,Card
+2026-03-08,Almaty 1,Alina,Customer 163,Primer,Finishing,8,4100,32800,Cash
+2026-11-21,Almaty 2,Nursultan,Customer 49,Cable,Electrical,37,8500,314500,Bank Transfer
+2026-01-19,Almaty 4,Aidos,Customer 95,Door,Interior,52,48000,2496000,Bank Transfer
+2026-05-13,Almaty 4,Dana,Customer 139,Roof Sheet,Roof,10,13500,135000,Cash
+2026-03-24,Almaty 4,Aidos,Customer 48,Laminate,Flooring,49,7200,352800,Cash
+2026-08-13,Almaty 1,Dana,Customer 138,Gypsum Board,Building Materials,59,2900,171100,Card
+2026-04-28,Almaty 1,Dias,Customer 1,Tile,Finishing,42,4600,193200,Cash
+2026-02-24,Almaty 3,Dana,Customer 196,Screws,Hardware,60,900,54000,Card
+2026-04-06,Almaty 2,Aidos,Customer 176,Screws,Hardware,38,900,34200,Bank Transfer
+2026-09-11,Almaty 4,Alina,Customer 200,Door,Interior,58,48000,2784000,Bank Transfer
+2026-09-21,Almaty 2,Alina,Customer 1,Drill,Tools,36,38000,1368000,Card
+2026-05-16,Almaty 2,Dana,Customer 85,Paint,Finishing,29,5400,156600,Cash
+2026-07-04,Almaty 4,Alina,Customer 48,Tile,Finishing,2,4600,9200,Bank Transfer
+2026-10-01,Almaty 4,Aidos,Customer 210,LED Lamp,Electrical,46,1600,73600,Cash
+2026-01-28,Almaty 1,Dias,Customer 232,Insulation,Roof,36,3900,140400,Bank Transfer
+2026-02-08,Almaty 1,Dias,Customer 97,Door,Interior,30,48000,1440000,Card
+2026-01-10,Almaty 1,Aidos,Customer 35,LED Lamp,Electrical,55,1600,88000,Cash
+2026-12-26,Almaty 4,Nursultan,Customer 34,Tile,Finishing,5,4600,23000,Bank Transfer
+2026-04-01,Almaty 3,Aidos,Customer 48,Brick,Building Materials,54,180,9720,Card
+2026-03-24,Almaty 3,Nursultan,Customer 164,Brick,Building Materials,8,180,1440,Bank Transfer
+2026-10-23,Almaty 1,Nursultan,Customer 8,Cable,Electrical,33,8500,280500,Cash
+2026-11-06,Almaty 2,Aidos,Customer 6,Primer,Finishing,21,4100,86100,Cash
+2026-05-28,Almaty 4,Dias,Customer 83,Window,Exterior,7,72000,504000,Bank Transfer
+2026-12-09,Almaty 2,Alina,Customer 187,Saw,Tools,48,15000,720000,Card
+2026-01-08,Almaty 3,Dana,Customer 122,Door,Interior,60,48000,2880000,Card
+2026-11-20,Almaty 3,Alina,Customer 61,Insulation,Roof,35,3900,136500,Cash
+2026-09-11,Almaty 4,Dana,Customer 206,Primer,Finishing,38,4100,155800,Card
+2026-05-03,Almaty 1,Askar,Customer 233,Gypsum Board,Building Materials,20,2900,58000,Cash
+2026-05-14,Almaty 1,Askar,Customer 154,Pipe PVC,Plumbing,35,2100,73500,Bank Transfer
+2026-06-28,Almaty 3,Aidos,Customer 55,Primer,Finishing,45,4100,184500,Bank Transfer
+2026-02-21,Almaty 4,Dana,Customer 169,LED Lamp,Electrical,9,1600,14400,Bank Transfer
+2026-04-26,Almaty 4,Alina,Customer 88,Cement M400,Building Materials,43,3200,137600,Bank Transfer
+2026-12-08,Almaty 2,Aidos,Customer 152,Paint,Finishing,9,5400,48600,Cash
+2026-04-06,Almaty 1,Dias,Customer 150,Screws,Hardware,50,900,45000,Cash
+2026-08-22,Almaty 1,Aidos,Customer 195,Window,Exterior,26,72000,1872000,Cash
+2026-10-16,Almaty 2,Dana,Customer 23,Laminate,Flooring,1,7200,7200,Card
+2026-05-28,Almaty 3,Dana,Customer 230,Saw,Tools,11,15000,165000,Cash
+2026-07-06,Almaty 2,Aidos,Customer 108,Cement M400,Building Materials,31,3200,99200,Cash
+2026-09-30,Almaty 2,Alina,Customer 237,Laminate,Flooring,50,7200,360000,Card
+2026-03-21,Almaty 1,Aidos,Customer 72,Glue,Finishing,45,2500,112500,Bank Transfer
+2026-04-13,Almaty 4,Alina,Customer 90,Gypsum Board,Building Materials,58,2900,168200,Bank Transfer
+2026-08-08,Almaty 4,Aidos,Customer 209,Gypsum Board,Building Materials,25,2900,72500,Bank Transfer
+2026-05-16,Almaty 3,Askar,Customer 215,Gypsum Board,Building Materials,3,2900,8700,Card
+2026-09-28,Almaty 2,Dias,Customer 110,Gypsum Board,Building Materials,52,2900,150800,Bank Transfer
+2026-02-23,Almaty 4,Dias,Customer 23,Insulation,Roof,13,3900,50700,Card
+2026-06-27,Almaty 3,Dias,Customer 30,Paint,Finishing,40,5400,216000,Card
+2026-08-31,Almaty 3,Askar,Customer 74,Mixer,Plumbing,23,12500,287500,Card
+2026-11-30,Almaty 3,Alina,Customer 136,Saw,Tools,44,15000,660000,Cash
+2026-09-28,Almaty 2,Dias,Customer 247,Window,Exterior,22,72000,1584000,Cash
+2026-05-05,Almaty 1,Alina,Customer 14,Screws,Hardware,54,900,48600,Card
+2026-07-12,Almaty 1,Nursultan,Customer 25,Primer,Finishing,41,4100,168100,Cash
+2026-10-18,Almaty 3,Alina,Customer 134,Door,Interior,57,48000,2736000,Card
+2026-03-20,Almaty 4,Alina,Customer 172,Door,Interior,17,48000,816000,Cash
+2026-12-19,Almaty 4,Alina,Customer 114,Door,Interior,45,48000,2160000,Cash
+2026-03-11,Almaty 4,Nursultan,Customer 8,LED Lamp,Electrical,14,1600,22400,Cash
+2026-03-05,Almaty 1,Aidos,Customer 28,Drill,Tools,42,38000,1596000,Bank Transfer
+2026-08-21,Almaty 1,Alina,Customer 118,Mixer,Plumbing,19,12500,237500,Bank Transfer
+2026-03-07,Almaty 3,Dana,Customer 235,Window,Exterior,35,72000,2520000,Card
+2026-12-02,Almaty 1,Dias,Customer 130,Pipe PVC,Plumbing,19,2100,39900,Bank Transfer
+2026-12-23,Almaty 1,Aidos,Customer 21,Door,Interior,40,48000,1920000,Card
+2026-08-16,Almaty 4,Dias,Customer 36,Brick,Building Materials,28,180,5040,Bank Transfer
+2026-12-18,Almaty 1,Dias,Customer 44,Tile,Finishing,13,4600,59800,Bank Transfer
+2026-05-28,Almaty 2,Dana,Customer 148,Door,Interior,46,48000,2208000,Bank Transfer
+2026-11-25,Almaty 2,Nursultan,Customer 119,Primer,Finishing,29,4100,118900,Card
+2026-07-15,Almaty 1,Askar,Customer 205,Cable,Electrical,39,8500,331500,Card
+2026-05-11,Almaty 1,Alina,Customer 86,Primer,Finishing,24,4100,98400,Bank Transfer
+2026-01-23,Almaty 3,Alina,Customer 156,Saw,Tools,28,15000,420000,Cash
+2026-06-22,Almaty 4,Askar,Customer 120,Roof Sheet,Roof,16,13500,216000,Card
+2026-07-11,Almaty 2,Dana,Customer 99,Saw,Tools,46,15000,690000,Cash
+2026-12-18,Almaty 3,Askar,Customer 80,Insulation,Roof,30,3900,117000,Card
+2026-10-06,Almaty 2,Alina,Customer 112,Roof Sheet,Roof,43,13500,580500,Card
+2026-05-19,Almaty 2,Aidos,Customer 132,Tile,Finishing,1,4600,4600,Bank Transfer
+2026-04-16,Almaty 4,Dana,Customer 194,Glue,Finishing,1,2500,2500,Cash
+2026-04-14,Almaty 4,Aidos,Customer 227,Gypsum Board,Building Materials,11,2900,31900,Bank Transfer
+2026-02-18,Almaty 4,Alina,Customer 223,LED Lamp,Electrical,52,1600,83200,Bank Transfer
+2026-05-13,Almaty 2,Dias,Customer 59,Brick,Building Materials,60,180,10800,Bank Transfer
+2026-06-20,Almaty 1,Nursultan,Customer 190,Tile,Finishing,47,4600,216200,Bank Transfer
+2026-01-14,Almaty 4,Aidos,Customer 243,Door,Interior,59,48000,2832000,Bank Transfer
+2026-09-06,Almaty 4,Aidos,Customer 121,LED Lamp,Electrical,33,1600,52800,Cash
+2026-10-16,Almaty 1,Dana,Customer 115,Brick,Building Materials,40,180,7200,Card
+2026-11-26,Almaty 2,Dias,Customer 2,Window,Exterior,10,72000,720000,Card
+2026-07-07,Almaty 2,Dana,Customer 244,Roof Sheet,Roof,58,13500,783000,Cash
+2026-03-05,Almaty 2,Nursultan,Customer 66,Door,Interior,9,48000,432000,Bank Transfer
+2026-12-17,Almaty 4,Dana,Customer 7,Hammer,Tools,21,6200,130200,Card
+2026-09-08,Almaty 2,Alina,Customer 101,Pipe PVC,Plumbing,49,2100,102900,Cash
+2026-03-30,Almaty 1,Askar,Customer 105,Tile,Finishing,28,4600,128800,Bank Transfer
+2026-03-29,Almaty 2,Nursultan,Customer 117,Pipe PVC,Plumbing,4,2100,8400,Card
+2026-02-05,Almaty 2,Alina,Customer 226,Saw,Tools,50,15000,750000,Bank Transfer
+2026-01-10,Almaty 3,Dana,Customer 39,Mixer,Plumbing,29,12500,362500,Cash
+2026-09-19,Almaty 2,Alina,Customer 82,Window,Exterior,20,72000,1440000,Cash
+2026-06-21,Almaty 1,Nursultan,Customer 77,Gypsum Board,Building Materials,38,2900,110200,Cash
+2026-12-06,Almaty 3,Nursultan,Customer 229,Window,Exterior,36,72000,2592000,Bank Transfer
+2026-10-13,Almaty 4,Aidos,Customer 190,Gypsum Board,Building Materials,29,2900,84100,Card
+2026-02-09,Almaty 1,Aidos,Customer 56,Cement M400,Building Materials,29,3200,92800,Bank Transfer
+2026-06-08,Almaty 1,Dana,Customer 161,Cable,Electrical,27,8500,229500,Bank Transfer
+2026-12-26,Almaty 4,Alina,Customer 232,Insulation,Roof,51,3900,198900,Cash
+2026-02-17,Almaty 1,Askar,Customer 11,Roof Sheet,Roof,41,13500,553500,Cash
+2026-03-15,Almaty 3,Dias,Customer 134,Saw,Tools,47,15000,705000,Card
+2026-06-06,Almaty 2,Dana,Customer 237,Mixer,Plumbing,50,12500,625000,Bank Transfer
+2026-03-10,Almaty 1,Dias,Customer 77,Door,Interior,43,48000,2064000,Card
+2026-04-28,Almaty 2,Dana,Customer 181,Hammer,Tools,51,6200,316200,Bank Transfer
+2026-09-11,Almaty 4,Dana,Customer 103,Drill,Tools,45,38000,1710000,Bank Transfer
+2026-10-22,Almaty 3,Aidos,Customer 124,Brick,Building Materials,13,180,2340,Bank Transfer
+2026-12-03,Almaty 4,Alina,Customer 200,Brick,Building Materials,16,180,2880,Cash
+2026-12-12,Almaty 4,Askar,Customer 233,Hammer,Tools,19,6200,117800,Bank Transfer
+2026-09-08,Almaty 4,Dias,Customer 71,Screws,Hardware,51,900,45900,Cash
+2026-05-31,Almaty 3,Dias,Customer 196,Laminate,Flooring,52,7200,374400,Bank Transfer
+2026-02-16,Almaty 2,Aidos,Customer 27,Gypsum Board,Building Materials,57,2900,165300,Cash
+2026-05-02,Almaty 1,Alina,Customer 191,Tile,Finishing,51,4600,234600,Card
+2026-02-06,Almaty 2,Aidos,Customer 97,Mixer,Plumbing,33,12500,412500,Bank Transfer
+2026-11-01,Almaty 4,Aidos,Customer 141,Glue,Finishing,8,2500,20000,Card
+2026-01-06,Almaty 2,Alina,Customer 60,Cable,Electrical,2,8500,17000,Bank Transfer
+2026-05-04,Almaty 1,Nursultan,Customer 177,Cement M400,Building Materials,48,3200,153600,Cash
+2026-02-17,Almaty 1,Dana,Customer 178,Roof Sheet,Roof,33,13500,445500,Cash
+2026-05-24,Almaty 4,Alina,Customer 176,Laminate,Flooring,56,7200,403200,Cash
+2026-11-12,Almaty 3,Dias,Customer 50,Drill,Tools,40,38000,1520000,Bank Transfer
+2026-12-08,Almaty 4,Aidos,Customer 85,Mixer,Plumbing,46,12500,575000,Bank Transfer
+2026-09-22,Almaty 1,Dias,Customer 159,Glue,Finishing,45,2500,112500,Card
+2026-01-11,Almaty 1,Dias,Customer 39,Tile,Finishing,49,4600,225400,Bank Transfer
+2026-01-20,Almaty 1,Askar,Customer 174,Screws,Hardware,11,900,9900,Bank Transfer
+2026-07-11,Almaty 2,Alina,Customer 241,Cable,Electrical,57,8500,484500,Card
+2026-03-06,Almaty 2,Askar,Customer 146,Pipe PVC,Plumbing,8,2100,16800,Bank Transfer
+2026-10-28,Almaty 3,Alina,Customer 248,Hammer,Tools,51,6200,316200,Card
+2026-06-10,Almaty 3,Nursultan,Customer 15,Mixer,Plumbing,6,12500,75000,Cash
+2026-01-08,Almaty 1,Askar,Customer 97,Paint,Finishing,18,5400,97200,Cash
+2026-08-22,Almaty 4,Askar,Customer 247,Insulation,Roof,50,3900,195000,Cash
+2026-01-26,Almaty 3,Alina,Customer 127,Glue,Finishing,24,2500,60000,Card
+2026-12-15,Almaty 2,Alina,Customer 30,Laminate,Flooring,58,7200,417600,Cash
+2026-03-25,Almaty 1,Aidos,Customer 96,Tile,Finishing,47,4600,216200,Cash
+2026-09-28,Almaty 1,Nursultan,Customer 165,Cement M400,Building Materials,42,3200,134400,Card
+2026-12-19,Almaty 3,Alina,Customer 236,Roof Sheet,Roof,48,13500,648000,Cash
+2026-04-01,Almaty 1,Askar,Customer 34,Cement M400,Building Materials,25,3200,80000,Card
+2026-08-07,Almaty 2,Alina,Customer 66,Door,Interior,57,48000,2736000,Bank Transfer
+2026-04-25,Almaty 3,Dias,Customer 167,Insulation,Roof,3,3900,11700,Card
+2026-04-12,Almaty 3,Askar,Customer 213,Saw,Tools,21,15000,315000,Card
+2026-01-25,Almaty 1,Nursultan,Customer 29,Primer,Finishing,19,4100,77900,Card
+2026-01-13,Almaty 1,Dias,Customer 26,Cable,Electrical,45,8500,382500,Bank Transfer
+2026-12-23,Almaty 3,Aidos,Customer 237,Laminate,Flooring,9,7200,64800,Card
+2026-11-04,Almaty 1,Aidos,Customer 5,Cable,Electrical,2,8500,17000,Cash
+2026-05-19,Almaty 4,Aidos,Customer 136,Cement M400,Building Materials,35,3200,112000,Cash
+2026-04-16,Almaty 1,Dias,Customer 234,Insulation,Roof,7,3900,27300,Card
+2026-07-16,Almaty 3,Dias,Customer 230,Paint,Finishing,46,5400,248400,Cash
+2026-06-02,Almaty 2,Askar,Customer 166,Primer,Finishing,3,4100,12300,Card
+2026-04-15,Almaty 2,Nursultan,Customer 154,Laminate,Flooring,20,7200,144000,Bank Transfer
+2026-01-25,Almaty 2,Nursultan,Customer 161,Drill,Tools,10,38000,380000,Bank Transfer
+2026-04-21,Almaty 2,Dana,Customer 163,Laminate,Flooring,23,7200,165600,Cash
+2026-11-15,Almaty 4,Alina,Customer 17,Pipe PVC,Plumbing,9,2100,18900,Card
+2026-11-18,Almaty 3,Aidos,Customer 206,Window,Exterior,34,72000,2448000,Cash
+2026-03-27,Almaty 2,Aidos,Customer 193,Hammer,Tools,53,6200,328600,Card
+2026-03-14,Almaty 4,Aidos,Customer 22,Gypsum Board,Building Materials,28,2900,81200,Bank Transfer
+2026-10-18,Almaty 4,Aidos,Customer 242,Window,Exterior,28,72000,2016000,Card
+2026-06-25,Almaty 1,Alina,Customer 74,Door,Interior,11,48000,528000,Cash
+2026-09-02,Almaty 4,Aidos,Customer 60,LED Lamp,Electrical,30,1600,48000,Cash
+2026-05-23,Almaty 3,Alina,Customer 131,Screws,Hardware,46,900,41400,Cash
+2026-01-17,Almaty 3,Aidos,Customer 171,Drill,Tools,23,38000,874000,Card
+2026-08-10,Almaty 1,Dana,Customer 20,Glue,Finishing,21,2500,52500,Card
+2026-04-28,Almaty 2,Aidos,Customer 32,Laminate,Flooring,33,7200,237600,Card
+2026-04-17,Almaty 1,Alina,Customer 99,Screws,Hardware,51,900,45900,Bank Transfer
+2026-08-21,Almaty 3,Aidos,Customer 166,Insulation,Roof,8,3900,31200,Cash
+2026-05-04,Almaty 3,Alina,Customer 215,Paint,Finishing,37,5400,199800,Cash
+2026-05-03,Almaty 4,Dana,Customer 166,Door,Interior,38,48000,1824000,Cash
+2026-03-23,Almaty 2,Alina,Customer 66,Window,Exterior,31,72000,2232000,Bank Transfer
+2026-11-18,Almaty 1,Nursultan,Customer 82,Primer,Finishing,38,4100,155800,Cash
+2026-02-28,Almaty 3,Dana,Customer 205,Drill,Tools,9,38000,342000,Bank Transfer
+2026-12-12,Almaty 4,Dias,Customer 242,Gypsum Board,Building Materials,18,2900,52200,Bank Transfer
+2026-08-25,Almaty 1,Dias,Customer 24,Brick,Building Materials,4,180,720,Bank Transfer
+2026-03-04,Almaty 2,Dana,Customer 112,Insulation,Roof,50,3900,195000,Bank Transfer
+2026-08-14,Almaty 4,Alina,Customer 155,Hammer,Tools,42,6200,260400,Card
+2026-01-28,Almaty 1,Aidos,Customer 243,Hammer,Tools,54,6200,334800,Cash
+2026-06-17,Almaty 2,Askar,Customer 222,Gypsum Board,Building Materials,57,2900,165300,Bank Transfer
+2026-02-08,Almaty 3,Askar,Customer 142,Glue,Finishing,28,2500,70000,Cash
+2026-06-24,Almaty 4,Dias,Customer 55,Brick,Building Materials,41,180,7380,Bank Transfer
+2026-10-09,Almaty 3,Alina,Customer 108,Hammer,Tools,15,6200,93000,Bank Transfer
+2026-12-08,Almaty 3,Aidos,Customer 202,Laminate,Flooring,41,7200,295200,Cash
+2026-10-20,Almaty 3,Dana,Customer 86,Mixer,Plumbing,16,12500,200000,Card
+2026-10-29,Almaty 2,Dana,Customer 197,Paint,Finishing,53,5400,286200,Card
+2026-03-22,Almaty 4,Dana,Customer 181,Cement M400,Building Materials,3,3200,9600,Card
+2026-05-11,Almaty 1,Aidos,Customer 136,Laminate,Flooring,17,7200,122400,Card
+2026-04-15,Almaty 3,Askar,Customer 228,Cement M400,Building Materials,49,3200,156800,Card
+2026-08-11,Almaty 1,Nursultan,Customer 144,Drill,Tools,40,38000,1520000,Cash
+2026-02-06,Almaty 3,Dias,Customer 226,LED Lamp,Electrical,8,1600,12800,Card
+2026-10-04,Almaty 4,Alina,Customer 142,Window,Exterior,51,72000,3672000,Card
+2026-06-18,Almaty 2,Alina,Customer 128,Tile,Finishing,39,4600,179400,Bank Transfer
+2026-02-09,Almaty 1,Dias,Customer 172,Roof Sheet,Roof,28,13500,378000,Card
+2026-12-24,Almaty 1,Aidos,Customer 71,Screws,Hardware,15,900,13500,Bank Transfer
+2026-08-13,Almaty 1,Dias,Customer 61,Cement M400,Building Materials,11,3200,35200,Card
+2026-02-17,Almaty 4,Aidos,Customer 56,Screws,Hardware,32,900,28800,Card
+2026-10-21,Almaty 3,Dana,Customer 77,Cement M400,Building Materials,43,3200,137600,Cash
+2025-12-31,Almaty 3,Alina,Customer 74,Cement M400,Building Materials,60,3200,192000,Cash
+2026-01-27,Almaty 4,Askar,Customer 25,Glue,Finishing,46,2500,115000,Bank Transfer
+2026-11-05,Almaty 1,Dias,Customer 103,Roof Sheet,Roof,56,13500,756000,Cash
+2026-08-24,Almaty 4,Dias,Customer 244,LED Lamp,Electrical,36,1600,57600,Cash
+2026-08-18,Almaty 1,Aidos,Customer 125,Screws,Hardware,34,900,30600,Card
+2026-08-08,Almaty 3,Alina,Customer 73,Window,Exterior,27,72000,1944000,Card
+2026-05-18,Almaty 1,Askar,Customer 202,Roof Sheet,Roof,2,13500,27000,Card
+2026-02-21,Almaty 2,Aidos,Customer 215,Gypsum Board,Building Materials,3,2900,8700,Card
+2026-06-09,Almaty 1,Dana,Customer 6,Insulation,Roof,54,3900,210600,Card
+2026-03-06,Almaty 2,Dana,Customer 90,Door,Interior,20,48000,960000,Card
+2026-06-20,Almaty 3,Dana,Customer 59,Cable,Electrical,32,8500,272000,Card
+2026-06-23,Almaty 2,Aidos,Customer 37,Window,Exterior,26,72000,1872000,Bank Transfer
+2026-12-23,Almaty 4,Dana,Customer 129,Gypsum Board,Building Materials,2,2900,5800,Card
+2026-08-20,Almaty 2,Alina,Customer 51,Mixer,Plumbing,41,12500,512500,Cash
+2026-09-12,Almaty 4,Nursultan,Customer 199,Cable,Electrical,37,8500,314500,Cash
+2026-01-01,Almaty 2,Alina,Customer 191,Saw,Tools,44,15000,660000,Cash
+2026-09-08,Almaty 3,Nursultan,Customer 32,Insulation,Roof,13,3900,50700,Card
+2026-11-08,Almaty 1,Aidos,Customer 97,Tile,Finishing,46,4600,211600,Card
+2026-01-14,Almaty 3,Aidos,Customer 77,Tile,Finishing,44,4600,202400,Cash
+2026-11-20,Almaty 4,Aidos,Customer 55,Gypsum Board,Building Materials,37,2900,107300,Bank Transfer
+2026-01-03,Almaty 3,Alina,Customer 176,Glue,Finishing,36,2500,90000,Bank Transfer
+2026-11-20,Almaty 1,Alina,Customer 104,Paint,Finishing,32,5400,172800,Bank Transfer
+2026-09-10,Almaty 1,Dias,Customer 183,Roof Sheet,Roof,8,13500,108000,Card
+2026-06-22,Almaty 1,Aidos,Customer 207,Door,Interior,38,48000,1824000,Cash
+2026-05-02,Almaty 1,Askar,Customer 91,Gypsum Board,Building Materials,29,2900,84100,Bank Transfer
+2026-06-14,Almaty 1,Aidos,Customer 125,Mixer,Plumbing,37,12500,462500,Cash
+2026-09-18,Almaty 4,Alina,Customer 219,LED Lamp,Electrical,1,1600,1600,Bank Transfer
+2026-06-16,Almaty 1,Dias,Customer 80,Paint,Finishing,46,5400,248400,Bank Transfer
+2026-09-09,Almaty 3,Aidos,Customer 168,Brick,Building Materials,22,180,3960,Cash
+2026-06-24,Almaty 1,Dias,Customer 207,Laminate,Flooring,42,7200,302400,Card
+2026-04-12,Almaty 4,Dana,Customer 64,Saw,Tools,39,15000,585000,Card
+2026-09-03,Almaty 3,Askar,Customer 241,Primer,Finishing,42,4100,172200,Card
+2026-01-15,Almaty 3,Alina,Customer 136,Tile,Finishing,4,4600,18400,Cash
+2026-05-16,Almaty 2,Nursultan,Customer 136,Cement M400,Building Materials,58,3200,185600,Cash
+2026-07-12,Almaty 1,Dana,Customer 75,Glue,Finishing,41,2500,102500,Cash
+2026-06-11,Almaty 3,Dana,Customer 176,Insulation,Roof,51,3900,198900,Bank Transfer
+2026-12-15,Almaty 3,Aidos,Customer 194,Saw,Tools,59,15000,885000,Cash
+2026-03-21,Almaty 1,Aidos,Customer 192,Laminate,Flooring,10,7200,72000,Card
+2026-02-01,Almaty 3,Alina,Customer 42,Door,Interior,2,48000,96000,Card
+2026-05-19,Almaty 3,Askar,Customer 189,Brick,Building Materials,6,180,1080,Cash
+2026-01-25,Almaty 3,Askar,Customer 15,Cable,Electrical,29,8500,246500,Cash
+2026-08-30,Almaty 3,Dias,Customer 245,Cement M400,Building Materials,8,3200,25600,Cash
+2026-06-01,Almaty 4,Askar,Customer 63,Roof Sheet,Roof,21,13500,283500,Cash
+2026-07-04,Almaty 4,Askar,Customer 247,Gypsum Board,Building Materials,57,2900,165300,Bank Transfer
+2026-07-07,Almaty 2,Dias,Customer 114,Tile,Finishing,60,4600,276000,Card
+2026-02-10,Almaty 3,Dana,Customer 131,Screws,Hardware,59,900,53100,Card
+2026-01-13,Almaty 1,Dana,Customer 49,Primer,Finishing,17,4100,69700,Card
+2026-09-18,Almaty 1,Alina,Customer 242,Gypsum Board,Building Materials,59,2900,171100,Bank Transfer
+2026-01-28,Almaty 3,Dias,Customer 232,Drill,Tools,33,38000,1254000,Card
+2026-02-14,Almaty 4,Askar,Customer 245,LED Lamp,Electrical,3,1600,4800,Card
+2026-06-26,Almaty 2,Dias,Customer 96,Paint,Finishing,10,5400,54000,Card
+2026-11-14,Almaty 1,Dana,Customer 78,Window,Exterior,49,72000,3528000,Bank Transfer
+2026-08-11,Almaty 3,Alina,Customer 180,Primer,Finishing,53,4100,217300,Cash
+2026-10-16,Almaty 3,Nursultan,Customer 33,Saw,Tools,48,15000,720000,Cash
+2026-05-23,Almaty 2,Alina,Customer 142,LED Lamp,Electrical,5,1600,8000,Card
+2026-04-16,Almaty 3,Alina,Customer 39,Cable,Electrical,17,8500,144500,Card
+2026-10-09,Almaty 3,Dias,Customer 213,Tile,Finishing,10,4600,46000,Card
+2026-05-01,Almaty 3,Dana,Customer 199,Window,Exterior,36,72000,2592000,Cash
+2026-04-14,Almaty 3,Alina,Customer 197,Cable,Electrical,26,8500,221000,Bank Transfer
+2026-07-18,Almaty 4,Nursultan,Customer 233,Pipe PVC,Plumbing,28,2100,58800,Cash
+2026-11-24,Almaty 3,Askar,Customer 122,Drill,Tools,4,38000,152000,Cash
+2026-04-30,Almaty 2,Askar,Customer 81,Glue,Finishing,15,2500,37500,Card
+2026-05-04,Almaty 4,Askar,Customer 53,Insulation,Roof,58,3900,226200,Cash
+2026-11-14,Almaty 1,Aidos,Customer 165,Pipe PVC,Plumbing,58,2100,121800,Bank Transfer
+2026-02-17,Almaty 4,Aidos,Customer 91,LED Lamp,Electrical,48,1600,76800,Card
+2026-09-17,Almaty 2,Dana,Customer 40,Laminate,Flooring,25,7200,180000,Cash
+2026-08-30,Almaty 1,Aidos,Customer 156,Saw,Tools,9,15000,135000,Card
+2026-09-23,Almaty 1,Askar,Customer 191,Saw,Tools,6,15000,90000,Card
+2026-04-10,Almaty 3,Dias,Customer 2,LED Lamp,Electrical,45,1600,72000,Card
+2026-11-29,Almaty 2,Dana,Customer 191,Door,Interior,48,48000,2304000,Card
+2026-04-29,Almaty 1,Aidos,Customer 182,Window,Exterior,30,72000,2160000,Bank Transfer
+2026-07-11,Almaty 2,Dias,Customer 184,Glue,Finishing,33,2500,82500,Bank Transfer
+2026-03-02,Almaty 4,Dias,Customer 130,Tile,Finishing,44,4600,202400,Bank Transfer
+2026-01-24,Almaty 2,Aidos,Customer 202,Pipe PVC,Plumbing,25,2100,52500,Bank Transfer
+2026-03-19,Almaty 2,Aidos,Customer 53,Primer,Finishing,45,4100,184500,Bank Transfer
+2026-05-06,Almaty 1,Nursultan,Customer 110,Brick,Building Materials,15,180,2700,Bank Transfer
+2026-04-26,Almaty 2,Dias,Customer 135,Drill,Tools,29,38000,1102000,Card
+2026-07-07,Almaty 3,Aidos,Customer 104,Roof Sheet,Roof,19,13500,256500,Card
+2026-06-25,Almaty 4,Dias,Customer 156,Door,Interior,18,48000,864000,Cash
+2026-08-08,Almaty 1,Alina,Customer 71,Screws,Hardware,28,900,25200,Card
+2026-09-04,Almaty 1,Dias,Customer 100,Drill,Tools,39,38000,1482000,Cash
+2026-03-19,Almaty 3,Dias,Customer 19,LED Lamp,Electrical,28,1600,44800,Card
+2026-12-09,Almaty 4,Dias,Customer 22,Window,Exterior,2,72000,144000,Cash
+2026-02-05,Almaty 4,Dias,Customer 46,Paint,Finishing,11,5400,59400,Card
+2026-02-22,Almaty 1,Alina,Customer 249,Paint,Finishing,47,5400,253800,Cash
+2026-12-13,Almaty 3,Dias,Customer 125,LED Lamp,Electrical,57,1600,91200,Cash
+2026-04-13,Almaty 4,Dias,Customer 75,Primer,Finishing,33,4100,135300,Card
+2026-07-09,Almaty 4,Askar,Customer 126,Hammer,Tools,52,6200,322400,Card
+2026-03-06,Almaty 1,Dana,Customer 122,Laminate,Flooring,56,7200,403200,Card
+2026-05-03,Almaty 3,Aidos,Customer 90,Primer,Finishing,9,4100,36900,Cash
+2026-08-06,Almaty 3,Alina,Customer 17,Glue,Finishing,42,2500,105000,Card
+2026-08-03,Almaty 2,Askar,Customer 88,LED Lamp,Electrical,45,1600,72000,Bank Transfer
+2026-04-24,Almaty 2,Dias,Customer 180,Drill,Tools,33,38000,1254000,Card
+2026-12-01,Almaty 4,Askar,Customer 206,Pipe PVC,Plumbing,5,2100,10500,Cash
+2026-04-20,Almaty 2,Askar,Customer 108,Cable,Electrical,36,8500,306000,Card
+2026-10-13,Almaty 1,Alina,Customer 128,Tile,Finishing,50,4600,230000,Cash
+2026-03-15,Almaty 3,Nursultan,Customer 111,Saw,Tools,54,15000,810000,Card
+2026-12-21,Almaty 2,Dias,Customer 135,Window,Exterior,60,72000,4320000,Card
+2026-05-09,Almaty 2,Dana,Customer 16,Window,Exterior,55,72000,3960000,Cash
+2026-11-02,Almaty 2,Nursultan,Customer 87,Insulation,Roof,58,3900,226200,Bank Transfer
+2026-06-19,Almaty 3,Askar,Customer 145,Primer,Finishing,23,4100,94300,Card
+2026-03-01,Almaty 4,Nursultan,Customer 225,Cable,Electrical,7,8500,59500,Cash
+2026-02-09,Almaty 1,Askar,Customer 202,Roof Sheet,Roof,22,13500,297000,Cash
+2026-04-14,Almaty 1,Askar,Customer 242,Door,Interior,59,48000,2832000,Cash
+2026-07-06,Almaty 1,Askar,Customer 30,Gypsum Board,Building Materials,57,2900,165300,Card
+2026-05-14,Almaty 1,Nursultan,Customer 84,Laminate,Flooring,45,7200,324000,Bank Transfer
+2026-07-10,Almaty 1,Dana,Customer 209,Paint,Finishing,21,5400,113400,Bank Transfer
+2026-06-13,Almaty 4,Alina,Customer 194,Saw,Tools,2,15000,30000,Card
+2026-07-13,Almaty 2,Nursultan,Customer 26,LED Lamp,Electrical,54,1600,86400,Card
+2026-05-19,Almaty 4,Dana,Customer 63,Window,Exterior,40,72000,2880000,Bank Transfer
+2026-06-26,Almaty 3,Dana,Customer 98,Screws,Hardware,21,900,18900,Card
+2026-05-26,Almaty 1,Dias,Customer 14,Cement M400,Building Materials,7,3200,22400,Cash
+2026-12-10,Almaty 4,Nursultan,Customer 66,Laminate,Flooring,31,7200,223200,Cash
+2026-10-14,Almaty 3,Aidos,Customer 36,Pipe PVC,Plumbing,36,2100,75600,Bank Transfer
+2026-03-16,Almaty 1,Dias,Customer 63,LED Lamp,Electrical,45,1600,72000,Cash
+2026-11-24,Almaty 3,Alina,Customer 174,Window,Exterior,36,72000,2592000,Bank Transfer
+2026-02-06,Almaty 3,Alina,Customer 156,LED Lamp,Electrical,44,1600,70400,Bank Transfer
+2026-10-01,Almaty 2,Nursultan,Customer 105,Glue,Finishing,19,2500,47500,Cash
+2026-08-23,Almaty 1,Alina,Customer 88,Screws,Hardware,11,900,9900,Bank Transfer
+2026-11-18,Almaty 4,Nursultan,Customer 147,Pipe PVC,Plumbing,26,2100,54600,Cash
+2026-06-10,Almaty 3,Nursultan,Customer 247,Mixer,Plumbing,59,12500,737500,Card
+2026-05-04,Almaty 4,Aidos,Customer 181,Brick,Building Materials,47,180,8460,Cash
+2026-02-04,Almaty 1,Askar,Customer 158,Cement M400,Building Materials,11,3200,35200,Bank Transfer
+2026-08-28,Almaty 2,Nursultan,Customer 32,Saw,Tools,9,15000,135000,Cash
+2026-04-27,Almaty 2,Nursultan,Customer 186,Brick,Building Materials,33,180,5940,Cash
+2026-11-23,Almaty 3,Aidos,Customer 10,Laminate,Flooring,4,7200,28800,Cash
+2026-08-16,Almaty 1,Aidos,Customer 249,Gypsum Board,Building Materials,58,2900,168200,Bank Transfer
+2026-11-26,Almaty 4,Dias,Customer 38,Glue,Finishing,58,2500,145000,Bank Transfer
+2026-02-03,Almaty 4,Dana,Customer 247,Brick,Building Materials,44,180,7920,Card
+2026-08-08,Almaty 4,Dias,Customer 158,LED Lamp,Electrical,37,1600,59200,Bank Transfer
+2026-04-06,Almaty 3,Askar,Customer 190,LED Lamp,Electrical,8,1600,12800,Card
+2026-04-12,Almaty 1,Askar,Customer 172,Cable,Electrical,51,8500,433500,Cash
+2026-12-27,Almaty 2,Alina,Customer 8,Cable,Electrical,41,8500,348500,Card
+2026-05-01,Almaty 2,Dias,Customer 220,Insulation,Roof,21,3900,81900,Bank Transfer
+2026-01-25,Almaty 3,Askar,Customer 32,Window,Exterior,54,72000,3888000,Cash
+2026-08-27,Almaty 3,Dias,Customer 139,Gypsum Board,Building Materials,16,2900,46400,Cash
+2026-06-21,Almaty 2,Aidos,Customer 187,Paint,Finishing,4,5400,21600,Cash
+2026-01-04,Almaty 2,Dias,Customer 192,Cable,Electrical,4,8500,34000,Bank Transfer
+2026-09-07,Almaty 4,Askar,Customer 167,Pipe PVC,Plumbing,42,2100,88200,Card
+2026-07-27,Almaty 3,Askar,Customer 226,Primer,Finishing,28,4100,114800,Card
+2026-08-02,Almaty 1,Dana,Customer 20,Mixer,Plumbing,58,12500,725000,Bank Transfer
+2026-11-07,Almaty 4,Askar,Customer 48,Drill,Tools,21,38000,798000,Card
+2026-06-06,Almaty 1,Dana,Customer 24,Brick,Building Materials,42,180,7560,Cash
+2026-01-18,Almaty 4,Nursultan,Customer 229,Cement M400,Building Materials,58,3200,185600,Card
+2026-11-23,Almaty 4,Dias,Customer 153,Pipe PVC,Plumbing,8,2100,16800,Card
+2026-06-27,Almaty 2,Askar,Customer 67,Mixer,Plumbing,14,12500,175000,Bank Transfer
+2026-06-10,Almaty 1,Dias,Customer 64,Door,Interior,3,48000,144000,Card
+2026-07-31,Almaty 3,Dana,Customer 150,Cement M400,Building Materials,56,3200,179200,Cash
+2026-08-14,Almaty 2,Dana,Customer 205,Door,Interior,9,48000,432000,Card
+2026-08-08,Almaty 2,Aidos,Customer 145,Glue,Finishing,3,2500,7500,Cash
+2026-10-07,Almaty 1,Dana,Customer 233,Window,Exterior,51,72000,3672000,Bank Transfer
+2026-11-02,Almaty 3,Alina,Customer 107,Cable,Electrical,40,8500,340000,Cash
+2026-12-15,Almaty 3,Nursultan,Customer 230,Paint,Finishing,2,5400,10800,Cash
+2026-09-21,Almaty 1,Dana,Customer 13,Drill,Tools,34,38000,1292000,Card
+2026-09-22,Almaty 3,Aidos,Customer 234,Laminate,Flooring,10,7200,72000,Cash
+2026-05-26,Almaty 4,Aidos,Customer 39,LED Lamp,Electrical,59,1600,94400,Bank Transfer
+2026-11-30,Almaty 4,Dana,Customer 157,Insulation,Roof,34,3900,132600,Bank Transfer
+2026-06-30,Almaty 2,Aidos,Customer 184,Window,Exterior,1,72000,72000,Card
+2026-03-13,Almaty 4,Nursultan,Customer 241,Roof Sheet,Roof,16,13500,216000,Card
+2026-03-16,Almaty 3,Nursultan,Customer 127,Drill,Tools,53,38000,2014000,Cash
+2026-12-28,Almaty 4,Askar,Customer 154,Mixer,Plumbing,19,12500,237500,Card
+2026-10-05,Almaty 3,Dias,Customer 54,Door,Interior,10,48000,480000,Bank Transfer
+2026-07-09,Almaty 2,Askar,Customer 66,Roof Sheet,Roof,47,13500,634500,Card
+2026-02-08,Almaty 2,Aidos,Customer 234,Insulation,Roof,21,3900,81900,Bank Transfer
+2026-05-20,Almaty 1,Alina,Customer 153,Cable,Electrical,43,8500,365500,Card
+2026-07-25,Almaty 1,Alina,Customer 173,Insulation,Roof,30,3900,117000,Card
+2026-02-13,Almaty 4,Alina,Customer 92,Cement M400,Building Materials,5,3200,16000,Cash
+2026-09-18,Almaty 1,Nursultan,Customer 48,Hammer,Tools,27,6200,167400,Card
+2026-09-09,Almaty 1,Alina,Customer 68,Hammer,Tools,37,6200,229400,Cash
+2026-11-22,Almaty 3,Askar,Customer 100,LED Lamp,Electrical,59,1600,94400,Bank Transfer
+2026-02-05,Almaty 2,Dias,Customer 207,Saw,Tools,54,15000,810000,Card
+2026-07-20,Almaty 2,Nursultan,Customer 89,Insulation,Roof,49,3900,191100,Card
+2026-10-31,Almaty 4,Dana,Customer 199,Screws,Hardware,57,900,51300,Card
+2026-01-04,Almaty 2,Aidos,Customer 128,Window,Exterior,19,72000,1368000,Card
+2026-09-04,Almaty 2,Dias,Customer 45,Screws,Hardware,27,900,24300,Bank Transfer
+2026-03-13,Almaty 4,Askar,Customer 41,Insulation,Roof,15,3900,58500,Card
+2026-07-18,Almaty 4,Nursultan,Customer 31,Drill,Tools,8,38000,304000,Cash
+2026-11-21,Almaty 3,Dana,Customer 196,Window,Exterior,47,72000,3384000,Card
+2026-08-23,Almaty 2,Dias,Customer 226,Door,Interior,41,48000,1968000,Bank Transfer
+2026-08-02,Almaty 4,Nursultan,Customer 67,Saw,Tools,43,15000,645000,Cash
+2026-05-04,Almaty 1,Dana,Customer 148,Brick,Building Materials,25,180,4500,Bank Transfer
+2026-08-14,Almaty 3,Aidos,Customer 211,Laminate,Flooring,38,7200,273600,Bank Transfer
+2026-08-27,Almaty 2,Askar,Customer 136,Tile,Finishing,44,4600,202400,Bank Transfer
+2026-11-02,Almaty 4,Dias,Customer 188,LED Lamp,Electrical,40,1600,64000,Bank Transfer
+2026-03-13,Almaty 1,Nursultan,Customer 110,Roof Sheet,Roof,47,13500,634500,Bank Transfer
+2026-10-11,Almaty 2,Dana,Customer 156,Glue,Finishing,28,2500,70000,Bank Transfer
+2026-10-30,Almaty 4,Askar,Customer 6,Laminate,Flooring,18,7200,129600,Card
+2026-09-11,Almaty 3,Dias,Customer 33,Window,Exterior,14,72000,1008000,Bank Transfer
+2026-08-26,Almaty 2,Nursultan,Customer 205,Drill,Tools,27,38000,1026000,Cash
+2026-06-14,Almaty 2,Aidos,Customer 23,Door,Interior,39,48000,1872000,Card
+2026-02-04,Almaty 2,Alina,Customer 166,Mixer,Plumbing,33,12500,412500,Card
+2026-04-05,Almaty 1,Aidos,Customer 58,Paint,Finishing,31,5400,167400,Cash
+2026-03-12,Almaty 3,Askar,Customer 216,Tile,Finishing,21,4600,96600,Cash
+2026-07-24,Almaty 4,Askar,Customer 193,LED Lamp,Electrical,30,1600,48000,Cash
+2026-01-23,Almaty 1,Aidos,Customer 34,Tile,Finishing,47,4600,216200,Card
+2026-01-07,Almaty 3,Dana,Customer 10,Cement M400,Building Materials,17,3200,54400,Bank Transfer
+2026-06-11,Almaty 2,Dana,Customer 114,Laminate,Flooring,8,7200,57600,Cash
+2026-03-16,Almaty 4,Askar,Customer 121,Insulation,Roof,30,3900,117000,Card
+2026-11-12,Almaty 1,Dias,Customer 77,Cement M400,Building Materials,36,3200,115200,Card
+2026-11-28,Almaty 2,Nursultan,Customer 139,Brick,Building Materials,34,180,6120,Cash
+2026-06-25,Almaty 2,Nursultan,Customer 42,Door,Interior,33,48000,1584000,Cash
+2026-09-21,Almaty 1,Dana,Customer 27,Mixer,Plumbing,21,12500,262500,Bank Transfer
+2026-06-16,Almaty 2,Aidos,Customer 14,Insulation,Roof,19,3900,74100,Card
+2026-03-29,Almaty 3,Dana,Customer 168,Brick,Building Materials,26,180,4680,Cash
+2026-09-19,Almaty 2,Dias,Customer 178,Gypsum Board,Building Materials,57,2900,165300,Bank Transfer
+2026-06-04,Almaty 2,Dias,Customer 175,Roof Sheet,Roof,45,13500,607500,Card
+2026-08-06,Almaty 2,Dias,Customer 53,Drill,Tools,3,38000,114000,Cash
+2026-06-20,Almaty 1,Aidos,Customer 145,Window,Exterior,58,72000,4176000,Cash
+2026-05-13,Almaty 3,Nursultan,Customer 250,Primer,Finishing,23,4100,94300,Cash
+2026-06-20,Almaty 3,Dias,Customer 68,Laminate,Flooring,4,7200,28800,Cash
+2026-10-24,Almaty 2,Alina,Customer 182,Pipe PVC,Plumbing,47,2100,98700,Bank Transfer
+2026-01-18,Almaty 4,Alina,Customer 222,Cement M400,Building Materials,42,3200,134400,Bank Transfer
+2026-12-25,Almaty 4,Askar,Customer 14,Cement M400,Building Materials,35,3200,112000,Cash
+2026-10-22,Almaty 1,Dana,Customer 234,Window,Exterior,29,72000,2088000,Card
+2026-06-16,Almaty 4,Askar,Customer 123,Primer,Finishing,10,4100,41000,Card
+2026-07-21,Almaty 1,Aidos,Customer 135,Glue,Finishing,39,2500,97500,Bank Transfer
+2026-03-15,Almaty 1,Aidos,Customer 166,Cable,Electrical,47,8500,399500,Bank Transfer
+2026-04-17,Almaty 4,Nursultan,Customer 171,Cement M400,Building Materials,58,3200,185600,Bank Transfer
+2026-03-21,Almaty 3,Nursultan,Customer 148,Saw,Tools,46,15000,690000,Card
+2026-05-08,Almaty 3,Dias,Customer 150,Hammer,Tools,3,6200,18600,Bank Transfer
+2026-03-17,Almaty 1,Nursultan,Customer 53,Window,Exterior,3,72000,216000,Card
+2026-04-23,Almaty 3,Dana,Customer 23,Pipe PVC,Plumbing,55,2100,115500,Bank Transfer
+2026-01-05,Almaty 1,Askar,Customer 212,Cement M400,Building Materials,23,3200,73600,Cash
+2026-05-08,Almaty 2,Alina,Customer 248,Glue,Finishing,55,2500,137500,Bank Transfer
+2026-11-13,Almaty 3,Askar,Customer 174,Window,Exterior,33,72000,2376000,Cash
+2026-07-06,Almaty 2,Nursultan,Customer 74,Screws,Hardware,48,900,43200,Bank Transfer
+2026-04-26,Almaty 3,Aidos,Customer 221,Saw,Tools,53,15000,795000,Card
+2026-05-07,Almaty 3,Dana,Customer 174,Saw,Tools,52,15000,780000,Cash
+2026-01-23,Almaty 3,Nursultan,Customer 42,Primer,Finishing,14,4100,57400,Cash
+2026-10-21,Almaty 2,Dana,Customer 6,Screws,Hardware,5,900,4500,Card
+2026-11-28,Almaty 1,Alina,Customer 186,Drill,Tools,6,38000,228000,Cash
+2026-09-11,Almaty 2,Dias,Customer 228,Cement M400,Building Materials,15,3200,48000,Bank Transfer
+2026-10-03,Almaty 4,Nursultan,Customer 103,Door,Interior,43,48000,2064000,Card
+2026-09-08,Almaty 4,Alina,Customer 133,Gypsum Board,Building Materials,21,2900,60900,Cash
+2026-06-29,Almaty 3,Dana,Customer 166,Primer,Finishing,57,4100,233700,Cash
+2026-09-16,Almaty 1,Dana,Customer 89,Tile,Finishing,47,4600,216200,Card
