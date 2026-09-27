@@ -54,8 +54,7 @@ Alihan-Analytics/
 ├── images/
 │   └── dashboard.png
 └── docs/
-    ├── data_dictionary.md
-    └── interview_guide_ru.md
+    └── data_dictionary.md
 ```
 
 ## Excel-дашборд
