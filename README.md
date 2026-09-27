@@ -1,6 +1,6 @@
 # Alihan Analytics — анализ продаж
 
-Учебный проект для портфолио Junior Data Analyst. В проекте проанализированы 1 000 операций по продаже строительных материалов. Исходный Excel-файл преобразован в проверяемый Excel-дашборд и набор аналитических SQL-запросов для PostgreSQL.
+Учебный проект для портфолио Junior Data Analyst. В проекте проанализированы 1 000 операций по продаже строительных материалов. Исходный Excel-файл преобразован в проверяемый Excel-дашборд и набор аналитических SQL-запросов для MySQL.
 
 ![Дашборд продаж Alihan](images/dashboard.png)
 
@@ -68,17 +68,14 @@ Alihan-Analytics/
 
 ## SQL-анализ
 
-Подготовлено 20 запросов для PostgreSQL 14+: агрегирование, `CASE`, `HAVING`, CTE, `LAG`, `ROW_NUMBER`, `DENSE_RANK`, месячный рост, скользящее среднее и накопительная доля выручки.
+Подготовлено 20 запросов для MySQL 8+: агрегирование, `CASE`, `HAVING`, CTE, `LAG`, `ROW_NUMBER`, `DENSE_RANK`, месячный рост, скользящее среднее и накопительная доля выручки.
 
 ## Запуск SQL
 
-```bash
-createdb alihan_analytics
-psql -d alihan_analytics -f sql/schema.sql
-psql -d alihan_analytics -c "\copy sales(order_date,branch,manager,customer,product,category,quantity,unit_price,revenue,payment_method) FROM 'data/sales_data.csv' WITH (FORMAT csv, HEADER true)"
-psql -d alihan_analytics -f sql/validation_queries.sql
-psql -d alihan_analytics -f sql/analysis_queries.sql
-```
+1. Откройте MySQL Workbench и создайте схему `alihan_analytics`.
+2. Запустите `sql/schema.sql`.
+3. Импортируйте `data/sales_data.csv` через **Table Data Import Wizard** в таблицу `sales`.
+4. Запустите `sql/validation_queries.sql`, затем `sql/analysis_queries.sql`.
 
 ## Проверка качества данных
 
@@ -97,5 +94,5 @@ psql -d alihan_analytics -f sql/analysis_queries.sql
 
 ## Описание для резюме
 
-> Создал учебный проект по анализу 1 000 операций продаж в Excel и PostgreSQL. Разработал формульный дашборд с KPI и четырьмя диаграммами, выполнил проверки качества данных и SQL-анализ с использованием CTE и оконных функций.
+> Создал учебный проект по анализу 1 000 операций продаж в Excel и MySQL. Разработал формульный дашборд с KPI и четырьмя диаграммами, выполнил проверки качества данных и SQL-анализ с использованием CTE и оконных функций.
 

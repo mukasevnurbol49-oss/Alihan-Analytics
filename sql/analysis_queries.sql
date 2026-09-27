@@ -3,12 +3,12 @@ SELECT SUM(revenue) total_revenue, COUNT(*) orders, SUM(quantity) units_sold,
        ROUND(AVG(revenue),2) average_order_value FROM sales;
 
 -- 02. Продажи по месяцам
-SELECT DATE_TRUNC('month',order_date)::date month, SUM(revenue) revenue,
+SELECT DATE_FORMAT(order_date, '%Y-%m-01') month, SUM(revenue) revenue,
        COUNT(*) orders, SUM(quantity) units_sold
 FROM sales GROUP BY 1 ORDER BY 1;
 
 -- 03. Рост к предыдущему месяцу
-WITH m AS (SELECT DATE_TRUNC('month',order_date)::date month, SUM(revenue) revenue
+WITH m AS (SELECT DATE_FORMAT(order_date, '%Y-%m-01') month, SUM(revenue) revenue
 FROM sales GROUP BY 1)
 SELECT month,revenue,LAG(revenue) OVER(ORDER BY month) previous_month,
 ROUND(100.0*(revenue-LAG(revenue) OVER(ORDER BY month)) /
@@ -69,11 +69,11 @@ DENSE_RANK() OVER(ORDER BY SUM(revenue) DESC) customer_rank
 FROM sales GROUP BY customer ORDER BY customer_rank LIMIT 10;
 
 -- 16. Месячная выручка филиалов
-SELECT DATE_TRUNC('month',order_date)::date month,branch,SUM(revenue) revenue
+SELECT DATE_FORMAT(order_date, '%Y-%m-01') month,branch,SUM(revenue) revenue
 FROM sales GROUP BY 1,branch ORDER BY 1,branch;
 
 -- 17. Скользящее среднее за три месяца
-WITH m AS (SELECT DATE_TRUNC('month',order_date)::date month,SUM(revenue) revenue
+WITH m AS (SELECT DATE_FORMAT(order_date, '%Y-%m-01') month,SUM(revenue) revenue
 FROM sales GROUP BY 1)
 SELECT month,revenue,ROUND(AVG(revenue) OVER(ORDER BY month ROWS BETWEEN 2 PRECEDING AND CURRENT ROW),2)
 rolling_3_month_avg FROM m ORDER BY month;
@@ -90,13 +90,13 @@ MIN(revenue) minimum_order_value,MAX(revenue) maximum_order_value
 FROM sales GROUP BY payment_method ORDER BY average_order_value DESC;
 
 -- 20. Лучший и худший месяц каждого филиала
-WITH bm AS (SELECT branch,DATE_TRUNC('month',order_date)::date month,SUM(revenue) revenue
+WITH bm AS (SELECT branch,DATE_FORMAT(order_date, '%Y-%m-01') month,SUM(revenue) revenue
 FROM sales GROUP BY branch,2), r AS (SELECT *,
 ROW_NUMBER() OVER(PARTITION BY branch ORDER BY revenue DESC,month) strongest_rank,
 ROW_NUMBER() OVER(PARTITION BY branch ORDER BY revenue,month) weakest_rank FROM bm)
-SELECT branch,MAX(month) FILTER(WHERE strongest_rank=1) strongest_month,
-MAX(revenue) FILTER(WHERE strongest_rank=1) strongest_revenue,
-MAX(month) FILTER(WHERE weakest_rank=1) weakest_month,
-MAX(revenue) FILTER(WHERE weakest_rank=1) weakest_revenue
+SELECT branch,MAX(CASE WHEN strongest_rank=1 THEN month END) strongest_month,
+MAX(CASE WHEN strongest_rank=1 THEN revenue END) strongest_revenue,
+MAX(CASE WHEN weakest_rank=1 THEN month END) weakest_month,
+MAX(CASE WHEN weakest_rank=1 THEN revenue END) weakest_revenue
 FROM r GROUP BY branch ORDER BY branch;
 
